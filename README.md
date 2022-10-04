@@ -2,6 +2,7 @@
 
 # GrasscutterTool-3.1.5
 > 原神3.1.5GC工具 v2.3.3(based on v1.6.7)
+[English](README_EN.md)
 
 点个免费的star再[拿走](https://github.com/TeyvatL/GrasscutterTool-3.1.5/releases)吧！
 
@@ -9,7 +10,7 @@ Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 
 # 说明
  - 支持 `简体中文`！
- - 懒得更新其他语言了
+ - 支持 `英文`！(由[moux23333](https://github.com/moux23333)适配)
 
 由 [Syca](https://github.com/Sycamore0) 修改，id大部分适配3.1.5X。</br>
 修复1.3.1后Spawn无法正常使用的问题</br>
