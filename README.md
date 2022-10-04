@@ -20,6 +20,7 @@ Fork from https://github.com/jie65535/GrasscutterCommandGenerator
  - 3.2角色
  - 3.2魔物
  - 3.2任务
+ - 3.2武器
 
 # Credit
 WindSeedClientNotify#7094
