@@ -1,8 +1,8 @@
+[English](README_EN.md)
 # 如果您不相信我，请您检查代码后自行编译，请勿刻意抹黑本人！
 
 # GrasscutterTool-3.1.5
 > 原神3.1.5GC工具 v2.3.3(based on v1.6.7)
-[English](README_EN.md)
 
 点个免费的star再[拿走](https://github.com/TeyvatL/GrasscutterTool-3.1.5/releases)吧！
 
