@@ -13,7 +13,7 @@ Fork from https://github.com/jie65535/GrasscutterCommandGenerator
  - 支持 `英文`！(由[moux23333](https://github.com/moux23333)适配)
 =======
  - 懒得更新其他语言了
- - 不能使用的话下载[这个配置文件](https://github.com/TeyvatL/GrasscutterTool-3.1.5/releases/download/20221004-0/GrasscutterTools.exe.config)放到同一个目录
+ - 不能使用的话下载[这个配置文件](https://github.com/TeyvatL/GrasscutterTool-3.1.5/releases/download/20221004fix/GrasscutterTools.exe.config)放到同一个目录
 
 由 [Syca](https://github.com/Sycamore0) 修改，id大部分适配3.1.5X。</br>
 修复1.3.1后Spawn无法正常使用的问题</br>
