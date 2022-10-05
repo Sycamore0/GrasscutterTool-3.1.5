@@ -1,3 +1,4 @@
+[English](README_EN.md)
 # 如果您不相信我，请您检查代码后自行编译，请勿刻意抹黑本人！
 
 # GrasscutterTool-3.1.5
@@ -9,6 +10,8 @@ Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 
 # 说明
  - 支持 `简体中文`！
+ - 支持 `英文`！(由[moux23333](https://github.com/moux23333)适配)
+=======
  - 懒得更新其他语言了
  - 不能使用的话下载[这个配置文件](https://github.com/TeyvatL/GrasscutterTool-3.1.5/releases/download/20221004-0/GrasscutterTools.exe.config)放到同一个目录
 
