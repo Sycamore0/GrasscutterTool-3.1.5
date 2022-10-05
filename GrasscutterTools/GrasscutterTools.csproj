@@ -196,31 +196,11 @@
       <LastGenOutput>Resources.zh-TW.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Properties\Resources.en-us.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.en-us.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Properties\Resources.ru-ru.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.ru-ru.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.en-us.Designer.cs">
-      <DependentUpon>Resources.en-us.resx</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-    </Compile>
-    <Compile Include="Properties\Resources.ru-ru.Designer.cs">
-      <DependentUpon>Resources.ru-ru.resx</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
@@ -236,8 +216,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="Resources\en-us\AvatarStats.json" />
-    <None Include="Resources\ru-ru\AvatarStats.json" />
     <None Include="Resources\zh-cn\AvatarStats.json" />
   </ItemGroup>
   <ItemGroup>
@@ -245,35 +223,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="FodyWeavers.xml" />
-    <Content Include="Resources\en-us\Animal.txt" />
-    <Content Include="Resources\en-us\Artifact.txt" />
-    <Content Include="Resources\en-us\ArtifactCat.txt" />
-    <Content Include="Resources\en-us\ArtifactMainAttribution.txt" />
-    <Content Include="Resources\en-us\ArtifactSubAttribution.txt" />
-    <Content Include="Resources\en-us\Avatar.txt" />
-    <Content Include="Resources\en-us\CustomCommands.txt" />
-    <Content Include="Resources\en-us\GachaBennerPrefab.txt" />
-    <Content Include="Resources\en-us\Gadget.txt" />
-    <Content Include="Resources\en-us\Item.txt" />
-    <Content Include="Resources\en-us\Monster.txt" />
-    <Content Include="Resources\en-us\Quest.txt" />
-    <Content Include="Resources\en-us\Scene.txt" />
-    <Content Include="Resources\en-us\Weapon.txt" />
     <None Include="Resources\Newtonsoft.Json.dll" />
-    <Content Include="Resources\ru-ru\Animal.txt" />
-    <Content Include="Resources\ru-ru\Artifact.txt" />
-    <Content Include="Resources\ru-ru\ArtifactCat.txt" />
-    <Content Include="Resources\ru-ru\ArtifactMainAttribution.txt" />
-    <Content Include="Resources\ru-ru\ArtifactSubAttribution.txt" />
-    <Content Include="Resources\ru-ru\Avatar.txt" />
-    <Content Include="Resources\ru-ru\CustomCommands.txt" />
-    <Content Include="Resources\ru-ru\GachaBennerPrefab.txt" />
-    <Content Include="Resources\ru-ru\Gadget.txt" />
-    <Content Include="Resources\ru-ru\Item.txt" />
-    <Content Include="Resources\ru-ru\Monster.txt" />
-    <Content Include="Resources\ru-ru\Quest.txt" />
-    <Content Include="Resources\ru-ru\Scene.txt" />
-    <Content Include="Resources\ru-ru\Weapon.txt" />
     <Content Include="Resources\IconGrasscutter.ico" />
     <Content Include="Resources\IconGrasscutter.png" />
     <None Include="Resources\ImgSupport.png" />
