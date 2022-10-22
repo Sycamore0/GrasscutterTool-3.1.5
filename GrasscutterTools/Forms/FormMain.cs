@@ -1391,9 +1391,6 @@ namespace GrasscutterTools.Forms
             var uid = NUDBanUID.Value;
             var endTime = DTPBanEndTime.Value;
             var command = $"/ban @{uid} {new DateTimeOffset(endTime).ToUnixTimeSeconds()}";
-            var reaseon = Regex.Replace(TxtBanReason.Text.Trim(), @"\s+", "-");
-            if (!string.IsNullOrEmpty(reaseon))
-                command += $" {reaseon}";
             SetCommand(command);
         }
 

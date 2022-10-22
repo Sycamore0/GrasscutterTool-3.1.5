@@ -1483,19 +1483,19 @@ namespace GrasscutterTools.Forms
             this.GrpEntityType.Name = "GrpEntityType";
             this.GrpEntityType.TabStop = false;
             // 
-            // RbEntityGadget
-            // 
-            resources.ApplyResources(this.RbEntityGadget, "RbEntityGadget");
-            this.RbEntityGadget.Name = "RbEntityGadget";
-            this.RbEntityGadget.UseVisualStyleBackColor = true;
-            this.RbEntityGadget.CheckedChanged += new System.EventHandler(this.RbEntity_CheckedChanged);
-            // 
             // RbEntityAnimal
             // 
             resources.ApplyResources(this.RbEntityAnimal, "RbEntityAnimal");
             this.RbEntityAnimal.Name = "RbEntityAnimal";
             this.RbEntityAnimal.UseVisualStyleBackColor = true;
             this.RbEntityAnimal.CheckedChanged += new System.EventHandler(this.RbEntity_CheckedChanged);
+            // 
+            // RbEntityGadget
+            // 
+            resources.ApplyResources(this.RbEntityGadget, "RbEntityGadget");
+            this.RbEntityGadget.Name = "RbEntityGadget";
+            this.RbEntityGadget.UseVisualStyleBackColor = true;
+            this.RbEntityGadget.CheckedChanged += new System.EventHandler(this.RbEntity_CheckedChanged);
             // 
             // RbEntityMonster
             // 
@@ -2180,7 +2180,6 @@ namespace GrasscutterTools.Forms
         private System.Windows.Forms.DateTimePicker DTPBanEndTime;
         private System.Windows.Forms.Button BtnUnban;
         private System.Windows.Forms.Button BtnBan;
-        private Controls.TextBoxXP TxtBanReason;
         private System.Windows.Forms.NumericUpDown NUDBanUID;
         private System.Windows.Forms.Label LblBanUID;
         private System.Windows.Forms.GroupBox GrpAccount;
