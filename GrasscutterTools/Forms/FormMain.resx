@@ -7426,7 +7426,7 @@ Syca
   </data>
   <data name="LblAbout.Text" xml:space="preserve">
     <value>GrasscutterTools-3.1.5
-Ony CHS（只支持简体中文）
+Support CHS/EN
 By Syca</value>
   </data>
   <data name="&gt;&gt;LblAbout.Name" xml:space="preserve">
