@@ -4,34 +4,34 @@
 4: credit：庫卡🅺🅾🅺🅰#8595
 5: sakura佬的id在蛮后面的
 114514: ===========Syca===========
-40000001: SteamBangField
-40000002: ThunderFistField
-40000003: GrassDart
-40000004: SharkTorpedo
-40000005: SharkTorpedo_Spurt
-40000006: SharkTorpedo_Spurt_2
-40000007: CreationLimit_Dummy
-40000104: FrostSpear
-40000115: IceSpine_Old
-40000116: IceSpine_Old
-40000117: IceSpine_Old
-40000118: Kevin_RockImpact
-40000119: ModifiedTrigger
-40000120: RockImpactTrap
-40000121: IceSpine_Strike
-40000129: IceSpell_Wards_Trap
-40000148: ClawMark_Mark
-40000154: ClawMark_Mark_Lycan
-40000160: AimingArrow_WithoutFire
-40000161: Double_ArrowAiming_WithoutFire
-40000172: Frost_Orb
-40000173: Frost_Orb_Bullet
+40000001: 蒸汽桶炮
+40000002: 电光拳
+40000003: 草飞镖
+40000004: 鲨鱼雷
+40000005: 鲨鱼雷喷泉
+40000006: 鲨鱼雷喷泉2
+40000007: 岩属性创生物超限替换物
+40000104: 大冰枪
+40000115: 绫华-冰刺（左）
+40000116: 绫华-冰刺（中）
+40000117: 绫华-冰刺（右）
+40000118: 凯文-冲击波
+40000119: 可变的Trigger
+40000120: 冲击波减速带
+40000121: 绫华-冰刺(浮空击）
+40000129: 冰霜陷阱
+40000148: 雷泽-天狼之痕
+40000154: 雷泽-天狼之痕（狼神）
+40000160: 安柏无属性蓄力箭
+40000161: 无属性双发箭
+40000172: 霜冻宝珠
+40000173: 霜冻宝珠-发射物
 40000174: 蹦蹦炸弹01
 40000175: 蹦蹦炸弹02
 40000176: 蹦蹦炸弹03
-40000177: 无效果
-40000178: EmptyGadget
-40000179: AmborFlyBullet
+40000177: 蹦蹦炸弹04
+40000178: 空物件
+40000179: 安柏飞行投弹
 40010000: 测试用子弹
 40010001: 武器技能_秘法箭
 40010002: 武器技能_刀波
@@ -42,79 +42,79 @@
 40010007: 武器技能_天丛云
 40010008: 武器技能_阴阳符1
 40010009: 武器技能_阴阳符2
-40010010: Weapon_Lanternrite_Bright
-40010011: Weapon_Lanternrite_Dark
-40010012: Weapon_Dvalin_Wave
-40010013: Weapon_Claymore_Dragonfell_Bullet
-40010014: Weapon_Pole_Dragonfell_Bullet
-40010015: Weapon_Catalyst_Dragonfell_Bullet
-40010016: Weapon_Sword_Youtou_Bullet1
-40010017: Weapon_Sword_Youtou_Bullet2
-40010018: Weapon_Sword_Youtou_Bullet3
+40010010: 武器技能_明灯
+40010011: 武器技能_魂灯
+40010012: 武器技能_风刃
+40010013: 武器技能_结晶核（大剑）
+40010014: 武器技能_结晶核(枪）
+40010015: 武器技能_结晶核（法器）
+40010016: 武器技能_邪刀波1
+40010017: 武器技能_邪刀波2
+40010018: 武器技能_邪刀波3
 40020000: 测试用Gagdget
 40020001: 武器技能_回血阵
 40020002: 武器技能_吸引阵
 40020003: 武器技能_
 40020004: 武器技能_
-40020005: Weapon_Claymore_Dragonfell_Gadget
-40020006: Weapon_Pole_Dragonfell_Gadget
-40020007: Weapon_Catalyst_Dragonfell_Gadget
-40100001: Test_Arrow
-40100006: Test_ArrowAiming
-40100013: Gear_ElectricBall
-40100200: RoomDoor
-40100201: RoomDoor
-40200001: SceneObj_Environment_WindField_AirflowField
-40200002: null
-40200003: SceneObj_Environment_WindField_SpeedupField
-40200008: null
-40200020: AirflowFieldBlue
+40020005: 武器技能_结晶核（大剑）
+40020006: 武器技能_结晶核(枪）
+40020007: 武器技能_结晶核（法器）
+40100001: 测试箭
+40100006: 测试箭
+40100013: 充能机关电球
+40100200: 房间测试门
+40100201: 房间测试门
+40200001: 垂直气流场
+40200002: 水平气流场
+40200003: 加速环
+40200008: 草燃烧向上气流场
+40200020: 射羽毛任务风场
 40210006: 龙卷风发射器
 40210007: 强风无效区域
-41002001: 神里大招的大漩涡 出去一直存在 有打击 无伤害
-41002002: IceSpine_Large
-41002003: Frozen_Butterfly_Area
-41002004: Frozen_Butterfly_Area_Material
-41002005: 神里大招的小漩涡 出去一直存在 有打击 无伤害
-41002006: Ayaka_ExtraAttack
-41002007: Ayaka_NormalAttack_05
-41002008: Ayaka_YayoiKaeshi
-41003004: DandelionWind_1
-41003005: DandelionWind_2
-41005001: 风主大招
-41005002: Player_Wind_Arashi
-41005003: Hogyoku_Base
-41005004: Hogyoku_Barrier
-41005005: 岩主大招
-41005006: RockTide_Barrier
-41005007: PlayerBoy_ExtraAttack_Wave
-41005008: Hogyoku_Bullet
-41005009: Hogyoku_Barrier_EndBoom
-41006001: 神里大招的大漩涡 出去一直存在 有打击 有伤害
-41006002: LightningBolt
-41006003: LightningSpear
-41006004: LightningSpear_1
-41006005: LightningSpear_2
-41006006: ConductiveField
-41006007: FilckerWave
-41006008: StaticElecField
-41006009: FlickerWave
-41006010: Lisa_Attack01
-41006011: Lisa_Attack02
-41006012: Lisa_Attack03
-41006013: 丽莎大招 只能打几下 燈籠不消失
-41006020: Lisa_ExtraAttack
-41006027: PierceLightning_Ball_Bullet
-41014001: Barbara_Attack01
-41014002: Barbara_Attack02
-41014003: Barbara_Attack03
+41002001: 绫华-霜殛
+41002002: 绫华-冰华阵
+41002003: 绫华-冰蝶之径（旧）
+41002004: 绫华-冰蝶之径-特效（旧）
+41002005: 绫华-胧-次级霜殛
+41002006: 绫华-重击
+41002007: 绫华-第五段攻击
+41002008: 绫华-弥生返
+41003004: 琴-蒲公英之风（回血）
+41003005: 琴-蒲公英之风（伤害）
+41005001: 主角—风龙息吹
+41005002: 主角风天赋-乱岚
+41005003: 主角岩系-崩玉启动器
+41005004: 主角岩系-崩玉水晶
+41005005: 主角岩系-岩潮
+41005006: 主角岩系-岩壁
+41005007: 男主分支刀波
+41005008: 主角岩系投射器
+41005009: 崩玉亡语伤害
+41006001: 扩散电场
+41006002: 闪电箭
+41006003: 闪电枪-技能
+41006004: 闪电枪-触发
+41006005: 强化闪电枪-触发
+41006006: 导电场
+41006007: 闪电波
+41006008: 静电附加范围
+41006009: 闪电波-Lisa
+41006010: 普攻01-Lisa
+41006011: 普攻02-Lisa
+41006012: 普攻03-Lisa
+41006013: 丽莎大招-静电球
+41006020: 丽莎重击
+41006027: 电球闪电
+41014001: 芭芭拉普攻01
+41014002: 芭芭拉普攻02
+41014003: 芭芭拉普攻03
 41014004: 芭芭拉水环
 41014005: 芭芭拉水环 水环消失还带打湿效果
-41014006: Barbara_Team_WaterBall
-41014007: Barbara_Team_FirstAid
-41015001: FrozenTrap
-41015002: FrozenTrap_GW
-41016001: Diluc_FireCross
+41014006: 芭芭拉离场技水球
+41014007: 芭芭拉离场技血包
+41015001: 凝霜陷阱
+41015002: 凝霜陷阱_水草专用
+41016001: 火焰刀光
 41021001: 安柏大招
 41021002: 兔兔伯爵
 41021003: 兔兔伯爵(扔出来)
@@ -123,58 +123,58 @@
 41021006: 兔兔伯爵(扔出来一直滚)
 41021007: 安柏弓重击火花
 41021008: 安柏弓重击带击退
-41021009: Ambor_Arrow_01
-41021010: Ambor_Arrow_02
-41021011: Ambor_Arrow_03
-41021012: Ambor_Arrow_04
-41021013: Ambor_Arrow_05
-41021014: GateOfAmbor_Trigger
-41021015: GateOfAmbor_Bullet
-41021016: Ambor_Dummy_BlowUpTrigger
-41021051: Dummy_Throw_Temp_4M
-41021052: Dummy_Throw_Temp_5M
-41021053: Dummy_Throw_Temp_6M
-41021054: Dummy_Throw_Temp_7M
-41021055: Dummy_Throw_Temp_8M
-41021056: Dummy_Throw_Temp_9M
-41021057: Dummy_Throw_Temp_10M
+41021009: 安柏-普攻01
+41021010: 安柏-普攻02
+41021011: 安柏-普攻03
+41021012: 安柏-普攻04
+41021013: 安柏-普攻05
+41021014: 安柏出场技触发器
+41021015: 安柏出场技
+41021016: 安柏诱饵触发器
+41021051: 诱饵抛掷4M
+41021052: 诱饵抛掷5M
+41021053: 诱饵抛掷6M
+41021054: 诱饵抛掷7M
+41021055: 诱饵抛掷8M
+41021056: 诱饵抛掷9M
+41021057: 诱饵抛掷10M
 41022001: 温迪大招
 41022002: 温迪外按E技能带风伤 没风场
 41022003: Venti_WindBlade_Land
-41022004: AimingArrow_Wind
-41022005: AimingArrow_WithoutWind
-41022006: Venti_Talent_AimingArrow_Wind
-41022007: Venti_Talent_AimingArrow_WithoutWind
-41022008: Venti_Arrow_01
-41022009: Venti_Arrow_02
-41022010: Venti_Arrow_03
-41022011: Venti_Arrow_04
-41022012: Venti_Arrow_05
-41022013: Venti_Arrow_06
+41022004: 温迪风属性蓄力箭
+41022005: 温迪无属性蓄力箭
+41022006: 温迪天赋风属性蓄力箭
+41022007: 温迪天赋无属性蓄力箭
+41022008: 温迪普攻箭01
+41022009: 温迪普攻箭02
+41022010: 温迪普攻箭03
+41022011: 温迪普攻箭04
+41022012: 温迪普攻箭05
+41022013: 温迪普攻箭06
 41022014: 温迪久按E的风场 持续存在
-41022016: Diona_AimingArrow_Wind
-41022017: Diona_AimingArrow_WithoutWind
-41022018: Diona_Attack_Dummy
-41023001: Xiangling_ExtraAttack_Bullet
-41023003: Xiangling_Panda_Pepper
-41023004: Xiangling_FireCircle
-41023011: Xiangling_Panda
-41023012: TalentBombGadget_EmptyGadget
+41022016: 迪奥娜冰属性蓄力箭
+41022017: 迪奥娜无属性蓄力箭
+41022018: 空目标
+41023001: 香菱分支攻击
+41023003: 熊猫留下的辣椒
+41023004: 香菱充能技的火圈
+41023011: 香菱丢出的熊猫
+41023012: 香菱天赋附加的爆弹
 41024001: 海兽守护
-41025001: IceVirus
-41025012: SkillObj_Xingqiu_PhantomBurst1
-41025013: SkillObj_Xingqiu_PhantomBurst2
-41025014: SkillObj_Xingqiu_PhantomBurst3
-41025017: SkillObj_Xingqiu_PhantomBurstS1
-41025018: SkillObj_Xingqiu_PhantomBurstS2
-41025019: SkillObj_Xingqiu_PhantomBurstS3
-41025020: SkillObj_Xingqiu_PhantomBurstS4
-41025021: SkillObj_Xingqiu_PhantomBurstS5
-41025022: Bullet_Xingqiu_PhantomBurst1
-41025023: Bullet_Xingqiu_PhantomBurstS1
-41025024: Bullet_Xingqiu_PhantomBurst1_Shake
-41025025: Bullet_Xingqiu_PhantomBurstS1_Shake
-41026001: Xiao_DevilDash
+41025001: 冰霜病毒-发射物
+41025012: 行秋_幻影爆发1
+41025013: 行秋_幻影爆发2
+41025014: 行秋_幻影爆发3
+41025017: 行秋_幻影爆发S1
+41025018: 行秋_幻影爆发S2
+41025019: 行秋_幻影爆发S3
+41025020: 行秋_幻影爆发S4
+41025021: 行秋_幻影爆发S5
+41025022: 行秋_幻影爆发子弹1
+41025023: 行秋_幻影爆发子弹S1
+41025024: 行秋_幻影爆发子弹1
+41025025: 行秋_幻影爆发子弹S1
+41026001: 魈-小技能子弹
 41027000: Ningguang_ElementArt
 41027001: Ningguang_NormalAttack
 41027002: ElementalBurst_ServantStone
@@ -418,49 +418,49 @@
 41058012: Yae_FoxTower_ThunderFall_Level2
 41058013: Yae_FoxTower_ThunderFall_Level3
 41058014: Yae_FoxTower_ThunderFall_Level4
-41059001: Heizo_ElementalBurst_WindHole
-41059002: Heizo_ElementalBurst_Bullet
-41060001: Yelan_Arrow_01
-41060002: Yelan_Arrow_02
-41060003: Yelan_Arrow_03
-41060004: Yelan_Arrow_04
-41060005: Yelan_Arrow_05
-41060006: Yelan_Arrow_06
-41060007: Yelan_AimingArrow_WithoutWater
-41060008: Yelan_AimingArrow_WithWater
-41060009: Yelan_AimingArrow_Sneak
-41060010: Yelan_ElementalArt_QuietStep_Bullet
-41060011: Yelan_ElementalBurst_Dice
-41060012: Yelan_ElementalBurst_Dice_Bullet_01
-41060013: Yelan_ElementalBurst_Dice_Bullet_02
-41060014: Yelan_ElementalBurst_Dice_Bullet_03
-41060015: Yelan_AimingArrow_Sneak_Extra_01
-41060016: Yelan_AimingArrow_Sneak_Extra_02
-41060017: Yelan_ElementalBurst_Dice_Bullet_Extra
-41062001: Aloy_Arrow_01_01
-41062002: Aloy_Arrow_01_02
-41062003: Aloy_Arrow_02
-41062004: Aloy_Arrow_03
-41062005: Aloy_Arrow_04
-41062006: Aloy_AimingArrow_WithoutIce
-41062007: Aloy_AimingArrow_WithIce
-41062009: Aloy_ElementalArt_NoEnemy
-41062010: Aloy_ElementalArt
-41062011: Aloy_ElementalBurst
-41062020: Aloy_ElementalArt_TriggerBullet
-41062021: Aloy_ElementalArt_TriggerAttack
-41063001: Shenhe_ExtraAttack_Bullet
-41063002: Shenhe_ElementalArt_Bullet
-41063003: Shenhe_Shadow
-41064011: Yunjin_ExtraAttack_Bullet
+41059001: 平藏 - 元素爆发一次性风眼
+41059002: 平藏 - 元素爆发子弹
+41060001: 夜兰普通攻击第1箭
+41060002: 夜兰普通攻击第2箭
+41060003: 夜兰普通攻击第3箭
+41060004: 夜兰普通攻击第4箭
+41060005: 夜兰普通攻击第5箭
+41060006: 夜兰普通攻击第6箭
+41060007: 夜兰无属性蓄力箭
+41060008: 夜兰有属性蓄力箭
+41060009: 夜兰脱战后的入战蓄力射击箭
+41060010: 夜兰元素战技迷踪步随身的检测碰撞盒
+41060011: 夜兰元素爆发随身的骰子
+41060012: 夜兰骰子的攻击子弹1号
+41060013: 夜兰骰子的攻击子弹2号
+41060014: 夜兰骰子的攻击子弹3号
+41060015: 夜兰命6解锁的特殊隐匿箭（普攻前三击）
+41060016: 夜兰命6解锁的特殊隐匿箭（普攻后三击）
+41060017: 夜兰命2解锁的额外水弹
+41062001: 埃洛伊普攻01_01
+41062002: 埃洛伊普攻01_02
+41062003: 埃洛伊普攻02
+41062004: 埃洛伊普攻03
+41062005: 埃洛伊普攻04
+41062006: 埃洛伊重击非蓄力
+41062007: 埃洛伊重击蓄力
+41062009: 埃洛伊小技能-直球-无目标
+41062010: 埃洛伊小技能-直球-有目标
+41062011: 埃洛伊充能技
+41062020: 埃洛伊小技能-地雷中转
+41062021: 埃洛伊小技能-地雷本体
+41063001: 申鹤 - 重击子弹
+41063002: 申鹤 - 小技能点按子弹
+41063003: 申鹤 - 分身
+41064011: 云堇 - 重击
 41065001: Shinobu_ElementalArt_RotateBullet
 41065002: Shinobu_ElementalBurst_Gadget
 41065003: SkillObj_Shinobu_Constellation_Bullet
-41066001: Ayato_ElementalArt_Gadget
-41066002: Ayato_ElementalBurst_Gadget
-41066003: Ayato_ElementalBurst_Gadget_1
-41066004: Ayato_ExtraAttack_Bullet
-41066005: Ayato_Talent_Gadget
+41066001: 绫人小技能水影
+41066002: 绫人大招场地
+41066003: 绫人大招斩落刀光和花
+41066004: 绫人重击
+41066005: 绫人命座额外2刀
 41067011: 柯莱E
 41067021: 柯莱大招一直存在
 41067022: 弹出柯里安巴
@@ -475,14 +475,14 @@
 41069015: 提纳里草属追踪箭x1
 41069021: 提纳里E地面技能 不会消失
 41069031: 提纳里大招
-41072004: Nahida_ExtraAttack
-41072005: Nahida_ElementalBurst_Hollow
-41072006: Layla_ElementalArt
-41072007: Layla_ElementalArt_Bullet
-41072008: Layla_ElementalBurst
-41072009: Layla_ElementalBurst_Bullet
-42000001: Fishing_Aim_Bullet
-42000002: Fishing_Cork
+41073001: 纳西妲重击_攻击盒
+41073002: 纳西妲大招_虚空领域
+41074001: 莱依拉
+41074002: 莱依拉
+41074011: 莱依拉
+41074012: 莱依拉
+42000001: 钓鱼的鱼漂发射器
+42000002: 钓鱼的鱼漂
 42001001: 史莱姆-冰锥-目标点
 42001002: 史莱姆岩锥
 42001003: 史莱姆气泡-弹道
@@ -1342,80 +1342,80 @@
 42906010: 雷电将军-直线刀波
 42906011: 雷电将军-冲刺
 42906012: 雷电将军-关卡通信器
-44000001: SkillObj_LevelEntity_TowerBuff_SprintAreaAttack
-44000002: SkillObj_GlidingChallenge_AirDash_Forward
-44000003: SkillObj_GlidingChallenge_AirDash_Upward1
-44000004: SkillObj_GlidingChallenge_AirDash_Upward2
-44000005: SkillObj_LevelEntity_TowerBuff_AreaAttackLowHP
-44000006: SceneObj_ChargeEfficiency_RecoverAllState
-44000007: SceneObj_ActivityAbility_Challenge_SprintAreaAttack_Gadget
-44000008: LevelEntity_TowerBuff_AreaNoEnemyAttackUp
-44000009: LevelEntity_EffigyChallenge2_WindLv3
-44000010: LevelEntity_TowerBuff_SwirlDoField
+44000001: 使用冲刺后会在原地留下一个n秒后爆炸的能量波
+44000002: 飞行挑战玩法：空中冲刺 前冲
+44000003: 飞行挑战玩法：空中冲刺 上冲1
+44000004: 飞行挑战玩法：空中冲刺 上冲2
+44000005: 使用冲刺后会在原地留下一个n秒后爆炸的能量波
+44000006: 范围内回复生命、能量、复活
+44000007: 使用冲刺后会在原地留下一个n秒后爆炸的能量波
+44000008: 没有敌人时提升输出
+44000009: 没有敌人时提升输出
+44000010: 范围伤害
 44000100: Activity_Endora
-44000101: Activity_Endora_Bubble_Bullet_01
-44000102: Activity_Endora_Bubble_Bullet_01_Short
+44000101: 吐泡泡子弹（远）
+44000102: 吐泡泡子弹（近）
 44000103: Activity_Endora_Bubble_Bullet_02
 44000104: Activity_Endora_Bubble_Bullet_Area
-44000105: Activity_HideSeek_Property_Prop_SeekerBattery_01
-44000106: Activity_HideSeek_Skill_Guide
-44000107: HideType_Bait
-44000108: Activity_HideSeek_Skill_SuperPrison
-44000109: Activity_HideSeek_Execution_Target
-44000110: ActivityAbility_LudiHarpastum_ParabolaBall_Short
-44000111: ActivityAbility_LudiHarpastum_ParabolaBall
-44000112: ActivityAbility_LudiHarpastum_Camear_01
-44000113: ActivityAbility_LudiHarpastum_CounterBall
-44000114: ActivityAbility_LudiHarpastum_Camear_02
-44000115: ActivityAbility_LudiHarpastum_BombTypeA_Short
-44000116: ActivityAbility_LudiHarpastum_BombTypeB_Short
-44000117: ActivityAbility_LudiHarpastum_BombTypeC_Short
-44000118: ActivityAbility_LudiHarpastum_BombTypeA
-44000119: ActivityAbility_LudiHarpastum_BombTypeB
-44000120: ActivityAbility_LudiHarpastum_BombTypeC
-44000121: ActivityAbility_LudiHarpastum_GlodBat
-44000200: HideType_A_Style_1_Scarecrow
-44000201: HideType_A_Style_1_Scarecrow
-44000202: HideType_A_Style_1_Wooden
-44000203: HideType_A_Style_1_Wooden
-44000204: HideType_A_Style_1_Grass
-44000205: HideType_A_Style_1_Wooden
-44000206: HideType_A_Style_1_Lamp
-44000207: HideType_A_Style_1_Wooden
-44000208: HideType_A_Style_1_Wooden
-44000209: HideType_A_Style_1_Wooden
-44000250: HideType_A_Style_1_wooden_Bait
-44000251: HideType_A_Style_1_wooden_Bait
-44000252: HideType_A_Style_1_wooden_Bait
-44000253: HideType_A_Style_1_wooden_Bait
-44000254: HideType_A_Style_1_GrassStacks_Bait
-44000255: HideType_A_Style_1_wooden_Bait
-44000256: HideType_A_Style_1_wooden_Bait
-44000257: HideType_A_Style_1_wooden_Bait
-44000258: HideType_A_Style_1_wooden_Bait
-44000259: HideType_A_Style_1_wooden_Bait
-44000260: HideType_A_Style_Bait_Target
-44000261: HideType_A_Style_Bait_Target
-44000262: HideType_A_Style_Bait_Target
-44000263: HideType_A_Style_Bait_Target
-44000264: HideType_A_Style_Bait_Target
-44000265: HideType_A_Style_Bait_Target
-44000266: HideType_A_Style_Bait_Target
-44000267: HideType_A_Style_Bait_Target
-44000268: HideType_A_Style_Bait_Target
-44000269: HideType_A_Style_Bait_Target
-44000300: EnergyDisk_ShockTriggerThunder_Gadget
-44000301: EnergyDisk_Superconductor_Damage_Gadget
-44000302: EnergyDisk_KillAOEMonster_Gadget
-44000303: EnergyDisk_WindBlackHole_Gadget
-44000304: EnergyDisk_SkillObj_WindAmber
-44000305: EnergyDisk_WindAmberField
-44000306: null
-44000307: EnergyDisk_SkillObj_WaterAmber
-44000308: ArenaChallenge2_Thunder_Gadget
-44000309: SkillObj_RogueDungeon_Spell_Elec
-44000310: SkillObj_LevelEntity_RogueBuff_SprintAreaAttack
-44000311: SkillObj_LevelEntity_RogueBuff_SprintAreaAttack2
+44000105: 捉迷藏能量球
+44000106: 捉迷藏-技能-引导
+44000107: 捉迷藏-技能-诱饵
+44000108: 捉迷藏-牢
+44000109: 捉迷藏-牢
+44000110: 羽球节ParabolaBall短
+44000111: 羽球节ParabolaBall
+44000112: 羽球节-相机1
+44000113: 羽球节CounterBall
+44000114: 羽球节-相机2
+44000115: 爆破羽球炸弹-A类型-短
+44000116: 爆破羽球炸弹-B类型-短
+44000117: 爆破羽球炸弹-C类型-短
+44000118: 爆破羽球炸弹-A类型
+44000119: 爆破羽球炸弹-B类型
+44000120: 爆破羽球炸弹-C类型
+44000121: 羽球自动球拍
+44000200: 捉迷藏伪装造型-稻草人蓝
+44000201: 捉迷藏伪装造型-稻草人红
+44000202: 捉迷藏伪装造型-枯木
+44000203: 捉迷藏伪装造型-丘丘人木箱
+44000204: 捉迷藏伪装造型-草垛02
+44000205: 捉迷藏伪装造型-鬼火
+44000206: 捉迷藏伪装造型-小路灯
+44000207: 捉迷藏伪装造型-丘丘人木桶
+44000208: 捉迷藏伪装造型-仙灵灯座
+44000209: 捉迷藏伪装造型-深赤之石
+44000250: 捉迷藏伪装造型-稻草人蓝
+44000251: 捉迷藏伪装造型-稻草人红
+44000252: 捉迷藏伪装造型-枯木
+44000253: 捉迷藏伪装造型-丘丘人木箱
+44000254: 捉迷藏伪装造型-草垛02
+44000255: 捉迷藏伪装造型-鬼火
+44000256: 捉迷藏伪装造型-小路灯
+44000257: 捉迷藏伪装造型-丘丘人木桶
+44000258: 捉迷藏伪装造型-仙灵灯座
+44000259: 捉迷藏伪装造型-深赤之石
+44000260: 捉迷藏伪装造型-稻草人蓝
+44000261: 捉迷藏伪装造型-稻草人红
+44000262: 捉迷藏伪装造型-枯木
+44000263: 捉迷藏伪装造型-丘丘人木箱
+44000264: 捉迷藏伪装造型-草垛02
+44000265: 捉迷藏伪装造型-鬼火
+44000266: 捉迷藏伪装造型-小路灯
+44000267: 捉迷藏伪装造型-丘丘人木桶
+44000268: 捉迷藏伪装造型-仙灵灯座
+44000269: 捉迷藏伪装造型-深赤之石
+44000300: 导能圆盘Buff_感电触发落雷
+44000301: 导能圆盘Buff_超导触发碎冰
+44000302: 导能圆盘-怪物死亡后的AOE
+44000303: 导能圆盘-重击吸引
+44000304: 导能圆盘-风琥珀【攻击前】
+44000305: 导能圆盘-风琥珀风场
+44000306: 导能圆盘Buff_感电触发落雷
+44000307: 水琥珀【攻击前】
+44000308: 擂台挑战2雷电力场
+44000309: 肉鸽【雷烧符】爆炸
+44000310: 肉鸽冲击波
+44000311: 肉鸽冲击波2
 44000400: SkillObj_Activity_HideSeekV2_Type_01
 44000401: SkillObj_Activity_HideSeekV2_Type_01
 44000402: SkillObj_Activity_HideSeekV2_Type_02
@@ -1442,29 +1442,30 @@
 44000423: HideType_A_Style_Bait_Target
 44000424: HideType_A_Style_Bait_Target
 44000425: HideType_A_Style_Bait_Target
-44000426: Activity_Potion_DeathRattle_Corruption_LogicGadget
-44000427: Activity_CrystalLink_DeathRattle_Corruption_LogicGadget
-44000428: RogueV2_WindZone
-44000429: Activity_Gadget_SummerTimeV2_Dungeon_ElectricZone
-44000431: Activity_Gadget_SummerTimeV2_Dungeon_Fischl_OZ
-44000432: Activity_Gadget_SummerTimeV2_Dungeon_Fischl_OZ_Bullet
+44000426: 死域触发流血物件
+44000427: 连线buff死域触发流血物件
+44000428: 肉鸽2期_风场
+44000429: 菲谢尔地城雷元素冲击波
+44000430：3.0时停挑战
+44000431: 菲谢尔乌鸦
+44000432: 菲谢尔乌鸦子弹
 45001001: 单人小船_普通_01
 45001002: 单人小船_北斗游击艇
-49001001: GeneralSkill_IceDamage_Prison_Center
-49001002: GeneralSkill_WindDamage_Vortex_Center
-49001003: GeneralSkill_RockDamage_LowWave_Emitter
-49001004: GeneralSkill_RockDamage_LowWave_SingleBullet
-49001005: GeneralSkill_ElecDamage_Arc_Charge
-49001006: GeneralSkill_ElecDamage_Arc_TriggerBullet
-49001008: GeneralSkill_FireDamage_TracingImpulse_Bullet
-49001009: GeneralSkill_FireDamage_TracingImpulse_DamageGadget
-49001010: GeneralSkill_WaterDamage_Bubble_Center
-49001011: GeneralSkill_WaterDamage_Bubble_Single
-49001012: GeneralSkill_ElecDamage_Arc_CenterCharge
-49001013: GeneralSkill_RockDamage_DeathRattleCrystal_DamageGadget
-49001014: GeneralSkill_Sovereign_EffGadget
-49001015: GeneralSkill_Deathrattle_Corruption_LogicGadget
-49001016: GeneralSkill_Deathrattle_Corruption_EffBullet
+49001001: 冰牢
+49001002: 旋涡
+49001003: 地波发射器
+49001004: 单发地波
+49001005: 电球（连线终点）
+49001006: 电球之间连接的电弧
+49001008: 追踪地火
+49001009: 追到后触发的攻击
+49001010: 用于触发第二波泡泡的逻辑gadget
+49001011: 泡泡
+49001012: 中心电球（连线起点）
+49001013: 死域结晶
+49001014: 恢复特效表现gadget（弃用）
+49001015: 死域流血逻辑gadget
+49001016: 腐蚀特效表现gadget
 49001017: Activity_ChannellerSlab_DangerArea
 49001018: Activity_ChannellerSlab_BulletToGround
 49001019: Activity_ChannellerSlab_DangerArea_Enhanced
@@ -1539,10 +1540,21 @@
 50004070: 海乱鬼大太刀-火幽灵
 50004071: 雷斧
 50004072: 太刀
-50004073: MonEquip_ForlornVessel_Warbanner_01
-50004074: MonEquip_ForlornVessel_Lance_01
-50004075: MonEquip_ForlornVessel_Chargebow_01
-50004095: MonEquip_Tachi_07
+50004073: 壳之剑士-战旗
+50004074: 壳之剑士-骑士枪
+50004075: 壳之剑士-盾弓
+50004076: 镀金旅团-弯刀
+50004077: 镀金旅团-弩
+50004078: 镀金旅团-拳刃-左手
+50004079: 镀金旅团-单手斧
+50004080: 镀金旅团-长柄
+50004081: 镀金旅团-拳刃-右手
+50004090: 镀金旅团-拳刺-左手
+50004091: 镀金旅团-拳刺-右手
+50004092: 镀金旅团-双刃-左手
+50004093: 镀金旅团-双刃-右手
+50004094: 镀金旅团-战斧
+50004095: 幕府妖刀
 50010002: (test)穿模测试
 50010003: (test)穿模测试
 50010004: (test)穿模测试
@@ -1550,8 +1562,8 @@
 50010006: (test)穿模测试
 50010007: 木剑
 50010008: (test)穿模测试
-50010009: SubEquip_Heizo_Jitte
-50010010: SubEquip_Shinobu_Mask
+50010009: 鹿野院平藏-副武器-十手
+50010010: 久岐忍-副武器-面具
 50011101: 无锋剑
 50011201: 银剑
 50011301: 冷刃
@@ -1570,7 +1582,7 @@
 50011408: 黑岩长剑
 50011409: 渴血直剑
 50011410: 暗巷闪光
-50011411: Weapon_Sword_Metal
+50011411: 碎星
 50011412: 降临之剑
 50011413: 腐殖之剑
 50011414: 天目影打刀
@@ -1588,7 +1600,7 @@
 50011505: 磐岩结绿
 50011506: 凭虚
 50011507: 北风的早成
-50011508: Weapon_Sword_Metal
+50011508: 靖世石心
 50011509: 雾切之回光
 50011510: 波乱月白经津
 50011511: 圣显之钥
@@ -1622,8 +1634,8 @@
 50012504: 昆吾蛰剑
 50012505: 砥厄鱼
 50012506: 异史
-50012508: Weapon_Claymore_Metal
-50012509: Weapon_Claymore_Metal
+50012508: 千年月光
+50012509: (test)鸣神系列
 50012510: 赤角石溃杵
 50013101: 新手长枪
 50013201: 铁尖枪
@@ -1672,7 +1684,7 @@
 50014408: 黑岩绯玉
 50014409: 昭心
 50014410: 暗巷的酒与诗
-50014411: Catalyst_Ball
+50014411: 幽澜明灯
 50014412: 忍冬之果
 50014413: 嘟嘟可故事集
 50014414: 白辰之环
@@ -1683,7 +1695,7 @@
 50014504: 昆吾落星
 50014505: 定土玉圭
 50014506: 光天琉璃
-50014508: Catalyst_Book
+50014508: 谐振源核
 50014509: 神乐之真意
 50014511: 千夜浮梦
 50015101: 猎弓
@@ -1727,25 +1739,26 @@
 50020014: (test)活动钓竿
 50020015: 须弥钓竿
 50100001: 绯烟-副武器-杆秤
-70000001: Grass01
-70000002: Water01
-70000003: Tree01
-70000004: Bush01
-70000005: Bush02
-70000006: Foxtail_Grass01
-70000007: Foxtail_Grass02
-70000008: Bush_Yellow
-70000009: Storm_Lightning
-70000010: Bush_NoFire01
-70000011: CustomTile
-70000012: BroadLeaf01
-70000013: Tree01
-70010001: null
-70010002: null
-70010003: null
-70010004: null
-70010005: null
-70010006: LocalTrigger
+70000001: 草
+70000002: 水
+70000003: 树
+70000004: 矮灌木
+70000005: 高灌木
+70000006: 白色狗尾草
+70000007: 黄色狗尾草
+70000008: 黄色灌木
+70000009: 雷雨天的闪电
+70000010: 雪山灌木
+70000011: tile创生物
+70000012: 测试用阔叶
+70000013: 雪山冰
+70000014: 雷雨天的闪电
+70010001: 塔
+70010002: 传送点
+70010003: 副本入口
+70010004: 副本路点
+70010005: 副本内部的离开点
+70010006: 本地触发器
 70020001: 蒙德城天气
 70020002: 风魔龙天气
 70020003: 蒙德一阶段天气
@@ -1765,16 +1778,16 @@
 70120006: 临时地城入口
 70120007: 临时地城入口（3D）
 70120008: 爬塔地城门
-70120009: SceneObj_Resident_DungeonEntry_MakotoTorii
+70120009: 雷神地城入口
 70130001: 风车
 70130002: 风车02
 70130003: 风车03
-70130004: null
-70130005: null
-70130006: null
-70130007: null
-70130008: null
-70200011: HealingBarrel
+70130004: 炼金台
+70130005: 炼金台
+70130006: 稻妻水车
+70130007: 莫娜岛环山星空桥
+70130008: 莫娜岛环山星空桥远景
+70200011: 回血点
 70210001: 粗糙的宝箱
 70210002: 普通的宝箱
 70210003: 精致的宝箱
@@ -1868,22 +1881,22 @@
 70211149: 玄月宝箱
 70211150: 奇馈宝箱
 70211151: 奇馈宝箱
-70211152: SceneObj_MichiaeMatsuri_Chest_01
-70211153: SceneObj_MichiaeMatsuri_Chest_01
-70211154: SceneObj_MichiaeMatsuri_Chest_01
-70211155: SceneObj_MichiaeMatsuri_Chest_01
-70211156: SceneObj_Chest_Locked_Lv1
-70211157: SceneObj_Chest_Locked_Lv2
-70211158: SceneObj_Chest_Locked_Lv4
-70211159: SceneObj_Chest_Locked_Lv5
-70211160: SceneObj_Chest_Default_Lv1
-70211161: SceneObj_Chest_Default_Lv2
-70211162: SceneObj_Chest_Default_Lv4
-70211163: SceneObj_Chest_Default_Lv5
-70211164: SceneObj_Area_Common_Property_Prop_MusicThornTreasurebox_01
-70211165: SceneObj_Area_Common_Property_Prop_MusicThornTreasurebox_02
-70211166: SceneObj_Chest_DefaultFollowMove_Lv1
-70211167: SceneObj_Chest_DefaultFollowMove_Lv2
+70211152: 黑夜宝箱 LV1
+70211153: 黑夜宝箱 LV2
+70211154: 黑夜宝箱 LV3
+70211155: 黑夜宝箱 LV4
+70211156: 黑夜宝箱 LV1-上锁
+70211157: 黑夜宝箱 LV2-上锁
+70211158: 黑夜宝箱 LV3-上锁
+70211159: 黑夜宝箱 LV4-上锁
+70211160: 黑夜挑战 普通的宝箱
+70211161: 黑夜挑战 精致的宝箱
+70211162: 黑夜挑战 珍贵的宝箱
+70211163: 黑夜挑战 华丽的宝箱
+70211164: 音律宝箱 LV1
+70211165: 音律宝箱 LV2
+70211166: 普通的宝箱
+70211167: 精致的宝箱
 70216666: 曲线测试
 70217001: 飞天大御剑
 70217002: 黑缨枪
@@ -1897,13 +1910,14 @@
 70217010: 符文石
 70217011: 雷鸟之心碎片
 70217012: 垃圾宝箱
-70217013: SceneObj_Area_Common_Property_Ani_Prop_BGM_01
-70217014: SceneObj_Area_Common_Property_Ani_Prop_JunkChest_02
-70217015: SceneObj_Chest_Relic02
-70217016: SceneObj_Chest_Relic02
-70217017: SceneObj_Chest_Relic02
-70217018: SceneObj_Chest_Relic02
-70217019: SceneObj_Chest_Relic02
+70217013: 旋曜玉帛
+70217014: 垃圾石碓
+70217015: 盟誓金爵
+70217016: 昭武翎羽
+70217017: 将帅兜鍪
+70217018: 勋绩之花
+70217019: 金铜时晷
+70217020: 须弥摩拉宝箱
 70220001: 落叶堆
 70220002: 落叶地毯
 70220003: 小型荆棘墙
@@ -2006,21 +2020,31 @@
 70220100: 遗迹裂缝墙壁
 70220101: 散落的药剂01
 70220102: 散落的药剂02
-70220106: SceneObj_Environment_GrassMaterial_LeafBlanket
-70220110: SceneObj_Area_Hd_Property_Prop_Nitrogen_01
-70220111: SceneObj_Area_Common_Property_Prop_NotePlant_02
-70220112: SceneObj_Area_Common_Property_Prop_NotePlant_03
-70220113: SceneObj_Area_Common_Property_Water_Waterplatform_01
-70220114: SceneObj_Area_Hd_Property_Prop_ConstellationRune_09
-70220115: SceneObj_Area_Hd_Property_Light_CrowMineLamp_01
-70220116: SceneObj_Area_Hd_Property_Prop_ConstellationMask_01
-70220117: SceneObj_Area_Common_Property_Stone_RuinStonePile_01
-70220118: SceneObj_Area_Common_Property_Prop_TransferFlowerProUp_02
-70220119: SceneObj_Area_Hd_Property_Prop_ConstellationActivity_01
-70220123: SceneObj_Area_Hd_Property_Prop_ConstellationActivity_02
-70220124: SceneObj_Amber_WindAmber_02
-70220127: Default_Attract_BoatRaceNitrogen_Activity
-70220129: SceneObj_Chest_Default_Fake_Lv2
+70220106: 干草地毯（带碰撞）
+70220107: 草炸药桶
+70220108: 雷炸药桶
+70220109: 草元素爆炸果实
+70220110: 氮气球
+70220111: 音符植物 声波传音花用
+70220112: 音符植物 风场传音花用
+70220113: 莫娜地城移动水片
+70220114: 特殊星座图案
+70220115: F矿灯
+70220116: 特殊星座图案 透镜
+70220117: 遗迹碎石堆
+70220118: 活动风场传音花 风场
+70220119: 星座连线图案点 活动版 小
+70220120: 草元素爆炸子弹
+70220121: 跑酷移动金币
+70220122: 跑酷拾取范围Buff球
+70220123: 星座连线图案点 活动版 大
+70220124: 风琥珀 2秒
+70220125: 草炸药桶-带眼睛
+70220126: 雷炸药桶-带眼睛
+70220127: 氮气球吸附
+70220128: 镀金旅团NPC-毯子
+70220129: 精致的宝箱(非宝箱）
+70220130: 污秽物
 70230001: 符文刻印0
 70230002: 符文刻印1
 70230003: 符文刻印A
@@ -2111,25 +2135,40 @@
 70230088: 悬纹刻印-大门D
 70230089: 悬纹刻印-大门E
 70230090: 旋转机关图案
-70230091: SceneObj_Area_Cyjy_Property_Ani_Prop_AbyssSummonSign_01
-70230092: SceneObj_Area_Cyjy_Property_Ani_Prop_AbyssSummonSign_01
-70230093: SceneObj_Area_Cyjy_Property_Ani_Prop_AbyssSummonSign_01
-70230094: SceneObj_Area_Cyjy_Property_Ani_Prop_AbyssSummonSign_01
-70230095: SceneObj_Area_Cyjy_Property_Ani_Prop_AbyssSummonSign_01
-70230096: SceneObj_Area_Cyjy_Property_Ani_Prop_AbyssSummonSign_01
-70230097: SceneObj_Area_Cyjy_Property_Ani_Prop_AbyssSummonSign_01
-70230098: SceneObj_Area_Cyjy_Property_Ani_Prop_AbyssSummonSign_01
-70230099: SceneObj_Area_Cyjy_Property_Ani_Prop_AbyssSummonSign_01
-70230100: SceneObj_Area_Common_Property_Decal_Rockdent_01
-70240001: SceneObj_LostParadise_Common_Property_Prop_RainCol_01
-70240002: SceneObj_LostParadise_Common_Property_Prop_RainCol_01
-70240003: SceneObj_LostParadise_Common_Property_Prop_RainCol_01
-70240004: SceneObj_LostParadise_Common_Property_Prop_RainCol_01
+70230091: 深渊密码1
+70230092: 深渊密码2
+70230093: 深渊密码3
+70230094: 深渊密码4
+70230095: 深渊密码5
+70230096: 深渊密码6
+70230097: 深渊密码7
+70230098: 深渊密码8
+70230099: 深渊密码9
+70230100: 海岛 可发光岩石刻痕2
+70230101: 兰纳罗壁画01
+70230102: 兰纳罗壁画02
+70230103: 兰纳罗壁画03
+70230104: 兰纳罗壁画04
+70230105: 兰纳罗壁画05
+70230106: 兰纳罗壁画06
+70230107: 兰纳罗涂鸦01（可发光）
+70230108: 兰纳罗涂鸦02（可发光）
+70230109: 兰纳罗涂鸦03（可发光）
+70230110: 兰纳罗涂鸦04（可发光）
+70230111: 兰纳罗涂鸦05（可发光）
+70230112: 兰纳罗涂鸦06（可发光）
+70230113: 兰纳罗涂鸦07（可发光）
+70240001: 动态挡雨物件ww01
+70240002: 动态挡雨物件ww01
+70240003: 动态挡雨物件ww02
+70240004: 动态挡雨物件ww02
 70270001: 降雨区域
 70270002: 水琥珀水雾
 70270003: 风琥珀风场
-70270004: SceneObj_Event_Kelee_SealR25
-70270007: WindAmberField_02
+70270004: 急冻树封印圈R25
+70270005: 死域控制器
+70270006: 回流之柱
+70270007: 风琥珀风场2秒
 70290001: 树（挂树莓）
 70290002: 树（挂苹果）
 70290003: 鸟窝（挂鸟蛋）
@@ -2315,36 +2354,36 @@
 70290187: 旋转迷宫-中圈
 70290188: 旋转迷宫-外圈
 70290189: 旋转迷宫-夜晚
-70290190: SceneObj_Area_Cyjy_Property_Ani_Prop_Chalcedony_01
-70290191: SceneObj_Area_Cyjy_Property_Ani_Prop_ChalcedonicRepeater_01
-70290192: SceneObj_Area_Cyjy_Property_Ani_Prop_GeoBarrier_01
-70290193: SceneObj_Area_Cyjy_Property_Ani_Prop_Chalcedony_LogicEntity_01
+70290190: 岩髓
+70290191: 中继岩髓
+70290192: 岩屏障LV3
+70290193: 岩髓摧毁岩创生物表现
 70290194: 非欧大门-前门
 70290195: 非欧大门-后门
 70290196: 隐形占位物件
 70290197: 大世界雪人身体A
-70290198: SceneObj_Area_Cyjy_Property_Ani_Prop_GeoBarrier_02
-70290199: SceneObj_Area_Cyjy_Property_Ani_Prop_GeoBarrier_03
-70290200: SceneObj_Area_Common_Property_Prop_BlowingStone_01
+70290198: 岩屏障LV1
+70290199: 岩屏障LV2
+70290200: 喷气岩白盒
 70290201: 大世界雪人身体B
 70290202: 大世界雪人身体C
 70290203: 大世界雪人身体D
-70290204: SceneObj_Area_Cyjy_Property_Prop_AbyssCoreLvOne_01
-70290205: SceneObj_Area_Cyjy_Property_Prop_AbyssCoreLvTwo_01
-70290206: LightStoneInteract01
-70290207: LightStoneInteract02
-70290208: LightStoneInteract03
-70290209: SceneObj_Area_Cyjy_Property_Ani_Prop_Chalcedony_02
-70290210: SceneObj_Area_Cyjy_Property_Ani_Prop_ChalcedonicRepeater_02
-70290211: SceneObj_Area_Cyjy_Property_Ani_Prop_ChalcedonyBullet_02
-70290212: SceneObj_Area_Cyjy_Property_Ani_Prop_LitBulletLauncher_01
-70290213: Bullet_LitBulletLauncher_Bullet
-70290214: SceneObj_Area_Cyjy_Property_Ani_Prop_SuperDarkSpider_01
-70290215: Bullet_SuperDarkSpider_Attack_Bullet
+70290204: 深渊核心Lv1
+70290205: 深渊核心Lv2
+70290206: 流明石交互台Lv1
+70290207: 流明石交互台Lv2
+70290208: 流明石交互台Lv3
+70290209: 岩髓大
+70290210: 中继岩髓大01
+70290211: 岩髓扩散子弹大
+70290212: 光能迸发水晶
+70290213: 光能迸发水晶子弹
+70290214: 黑暗蜘蛛网
+70290215: 黑暗蜘蛛子弹
 70290216: 扭曲遮罩1.5*1.5（白天）
 70290217: 扭曲遮罩1.5*1.5（黑夜）
-70290218: SceneObj_Area_Cyjy_Property_Ani_Prop_AbyssTargetCrystal_01
-70290219: SceneObj_Area_Common_Property_Ani_Prop_LitResonancer_01
+70290218: 光能迸发水晶靶标
+70290219: 感光机关
 70290220: 可控机关墙壁L
 70290221: 可控机关墙壁U
 70290222: 可控机关墙壁T
@@ -2358,7 +2397,7 @@
 70290230: 扭曲遮罩2.5*2.5（黑夜）
 70290231: 扭曲遮罩5*5（白天）
 70290232: 扭曲遮罩5*5（黑夜）
-70290233: SceneObj_Area_Cyjy_Property_Prop_AbyssCarpet_01
+70290233: 黑泥白盒
 70290234: 誓言之证平台
 70290235: 祝仪之路
 70290236: 扭曲传送门
@@ -2376,7 +2415,7 @@
 70290249: 主塔最高点隐藏平台
 70290250: 常夜灵璧-柱子
 70290251: 可控机关墙壁-柱子
-70290252: InvisibleLightPoint
+70290252: 隐形光源R3
 70290253: 魔神间章 云层封印法阵
 70290254: 魔神间章 云层封印机关
 70290255: 魔神间章 封印机关 落雷控制器
@@ -2390,7 +2429,7 @@
 70290263: 祝仪之路指引特效
 70290264: 通用local trigger物件
 70290265: 魔神间章 封印机关 冲击波子弹
-70290266: SceneObj_Area_Cyjy_Property_Prop_AbyssEnergyNozzle_01
+70290266: 深渊喷口
 70290267: 魔神间章 大型云层平台 第2层
 70290268: 魔神间章 大型云层平台 第3层
 70290269: 常夜灵龛
@@ -2400,8 +2439,8 @@
 70290273: 遗失的图书4
 70290274: 遗失的图书5
 70290275: 深渊奇点
-70290276: SceneObj_Area_Common_Property_Ani_Prop_DropRockAbyss_01
-70290277: SceneObj_Area_Common_Property_Ani_Prop_DropRockAbyss_02
+70290276: 坠落岩柱发生器
+70290277: 坠落岩柱子弹
 70290278: 幻影墙壁（石头）
 70290279: 幻影墙壁（墙壁）
 70290280: 水晶供奉装置
@@ -2409,12 +2448,12 @@
 70290282: 渊下宫 石栅栏门
 70290283: 水龙蜥尸体
 70290284: 第一次交互的符文刻印
-70290285: Earthquake
-70290286: SceneObj_Area_Common_Property_Prop_DreamPortal_01
+70290285: 地震
+70290286: 辛焱岛 传送门
 70290287: 岛屿封印圈3
 70290288: 岛屿封印圈4
-70290289: null
-70290290: null
+70290289: 层岩巨渊上层营地
+70290290: 层岩巨渊下层营地
 70290291: 遗迹机关门（小）
 70290292: 遗迹机关门（大）
 70290293: 渊下宫 仙灵灯柱换色
@@ -2424,123 +2463,125 @@
 70290297: 魔神间章 云层封印机关(高血量)
 70290298: 魔神间章 大型云层平台 无碰撞
 70290299: 魔神间章 云层大封印环（第二三层法阵）
-70290300: SceneObj_Area_Cyjy_Property_Ani_Prop_LitChargeBrazier_01
-70290301: SceneObj_Area_Common_Property_Ani_Prop_HardSolidBulk_01
+70290300: 结晶灯
+70290301: 坍塌墙壁大
 70290302: 誓言之证平台 非移动平台版
 70290303: 水龙蜥boss战平台空气墙
-70290304: SceneObj_Cyjy_DigPlay
-70290305: SceneObj_Area_Common_Property_Ani_Prop_LuminousShardNatural_Lit_01
-70290306: SceneObj_Area_Common_Property_Ani_Prop_LuminousShardWithHandle_Lit_02
-70290307: null
-70290308: SceneObj_Area_Common_Property_Ani_Prop_GeoBombBarrel_01
-70290309: SceneObj_Area_Common_Property_Ani_Prop_FlammableAir_01
-70290310: SceneObj_LostParadise_Common_Property_Prop_RisingFence_01
-70290311: SceneObj_LostParadise_Common_Property_Prop_RisingFence_02
-70290312: SceneObj_Area_Common_Property_Ani_Prop_SignalEquipment_01
-70290313: SceneObj_Area_Dq_Property_Prop_Irodori_Miniascape_01
-70290314: SceneObj_Area_Dq_Property_Prop_Irodori_Miniascape_01
-70290315: SceneObj_Area_Dq_Property_Prop_Irodori_Miniascape_01
-70290316: SceneObj_Area_Dq_Property_Prop_Irodori_Miniascape_01
-70290317: null
-70290318: SceneObj_Area_Common_Property_Ani_Prop_LitPathPlate_01
-70290319: SceneObj_Area_Common_Property_Ani_Prop_LitPathNode_01
-70290320: SceneObj_Area_Common_Property_Ani_Prop_LitPathGuide_01
-70290321: null
-70290322: SceneObj_Area_Cyjy_Property_Prop_PureLitChargePoint_01
-70290323: SceneObj_Area_Common_Property_Ani_Prop_BombMushroomGeo_02
-70290324: SceneObj_Area_Common_Property_Ani_Prop_BombMushroomGeo_01
-70290325: 照相点
-70290326: SceneObj_Area_Common_Property_Prop_CYJYCelestiaClusterSmall_01
-70290327: SceneObj_Area_Cyjy_Property_Prop_LitConnector_01
-70290328: SceneObj_Area_Cyjy_Property_Prop_LitConnectorRay_01
-70290329: SceneObj_Area_Cyjy_Property_Prop_LitConnectorRay_02
-70290330: SceneObj_Area_Cyjy_Property_Prop_LitConnectorRay_03
-70290331: SceneObj_Area_Cyjy_Property_Prop_CYJYCelestiaCluster_01
-70290332: SceneObj_Area_Cyjy_Property_Ani_Prop_LargeLitConnector_01
-70290333: SceneObj_Area_Cyjy_Property_Prop_LargeLitConnectorRay_01
-70290334: SceneObj_Area_Cyjy_Property_Prop_LargeLitConnectorRay_02
-70290335: SceneObj_Area_Cyjy_Property_Prop_LargeLitConnectorRay_03
-70290336: SceneObj_Area_Cyjy_Property_Prop_LargeLitConnectorRay_04
-70290337: SceneObj_Area_Cyjy_Property_Prop_LargeLitConnectorRay_05
-70290338: SceneObj_Area_Cyjy_Property_Ani_Prop_HintOfWedge_01
-70290339: SceneObj_Area_Cyjy_Property_Ani_Prop_HintOfWedge_02
-70290340: SceneObj_Area_Cyjy_Property_Ani_Prop_HintOfWedge_03
-70290341: SceneObj_Area_Cyjy_Property_Prop_AbyssDarkFog_01
-70290342: SceneObj_Area_Cyjy_Property_Prop_AbyssEnergyGate_01
-70290343: SceneObj_Area_Common_Property_Ani_Prop_GeoBombCannon_01
-70290344: Bullet_GeoBombCannon_Bullet
-70290345: SceneObj_Area_Common_Property_Ani_Prop_LuminousShardWithHandle_Lit_01
-70290346: null
-70290347: SceneObj_Area_Cyjy_Property_Ani_Prop_LitChargeBrazier_02
-70290348: null
-70290349: null
-70290350: null
-70290351: null
-70290352: SceneObj_Area_Cyjy_Property_Ani_Prop_GeoGlideChampOrb_01
-70290353: SceneObj_Area_Cyjy_Property_Ani_Prop_LitChargePoint_01
-70290354: SceneObj_Level_Common_Property_Ani_Prop_ReactionGem_01
-70290355: SceneObj_Level_Common_Property_Ani_Prop_ReactionGem_02
-70290356: SceneObj_Level_Common_Property_Prop_XinyanHomeDoor_01
-70290357: SceneObj_Area_Cyjy_Property_Prop_EntranceString_01
-70290358: SceneObj_Area_Cyjy_Property_Prop_EntranceString_02
-70290359: SceneObj_Area_Cyjy_Property_Prop_EntranceString_03
-70290360: SceneObj_Area_Cyjy_Property_Prop_EntranceString_04
-70290361: SceneObj_Area_Cyjy_Property_Prop_EntranceString_05
-70290362: null
-70290363: null
-70290364: SceneObj_Area_Cyjy_Property_Ani_Prop_CYJYClock_01
-70290365: SceneObj_Area_Cyjy_Property_Ani_Prop_Mine_Men_01
-70290366: SceneObj_Area_Cyjy_Property_Ani_Tree_LittleXamaran_01
-70290367: SceneObj_Area_Cyjy_Property_Prop_XamaranVFX_01
-70290368: SceneObj_Area_Cyjy_Property_Ani_Prop_ChalcedonicRepeater_02
-70290369: SceneObj_Area_Cyjy_Property_Ani_Prop_ChalcedonicRepeater_02
-70290370: SceneObj_Area_Cyjy_Property_Ani_Prop_ChalcedonicRepeater_02
-70290371: SceneObj_Area_Cyjy_Property_Ani_Prop_ChalcedonicRepeater_02
-70290372: SceneObj_Area_Cyjy_Property_Ani_Prop_ChalcedonicRepeater_02
-70290373: SceneObj_Level_Hf_Property_Prop_DIK_ServeDevice_01
-70290374: SceneObj_Level_Hf_Property_Prop_DIK_ServeItem_01
-70290375: SceneObj_Level_Hf_Property_Prop_DIK_ServeDevice_02
-70290376: null
-70290377: SceneObj_Level_Common_Property_Ani_Prop_MovingStatue_02
-70290378: SceneObj_Level_Common_Property_Ani_Prop_MovingStatue_01
-70290379: SceneObj_Area_Common_Property_Prop_DIK_Miniascape_01
-70290380: null
-70290381: null
-70290382: null
-70290383: null
-70290384: null
-70290385: null
-70290386: null
-70290387: null
-70290388: SceneObj_Area_Common_Property_Ani_Prop_LuminousShardWithHandle_Lit_01
-70290389: InvisibleLightPoint02
-70290391: null
-70290392: SceneObj_Area_Cyjy_Property_Prop_AbyssEnergyGate_01
-70290393: SceneObj_Gather_Model_Small
-70290394: SceneObj_Area_Common_Property_Ani_Prop_GeoBombBarrel_02
-70290395: SceneObj_Area_Common_Property_Ani_Prop_HardSolidBulk_01
-70290396: null
-70290397: null
-70290398: null
-70290399: null
-70290400: null
-70290401: null
-70290402: null
-70290403: SceneObj_Area_Common_Property_Ani_Prop_HardSolidBulk_02
-70290404: SceneObj_Area_Cyjy_Property_Ani_Prop_GeoBarrier_02
-70290405: SceneObj_Stages_Property_Ani_Prop_MovableBlock_01
-70290409: null
-70290410: null
-70290411: null
-70290412: null
-70290413: null
-70290414: null
-70290425: SceneObj_Area_Md_Property_Prop_Workbench_01
-70290426: SceneObj_Area_Md_Property_Prop_Workbench_02
-70290427: null
-70290428: SceneObj_Gear_DungeonGate04
-70290439: null
-70290502: SceneObj_Area_Common_Property_Prop_DreamPortal_02
+70290304: 层岩挖掘玩法
+70290305: 流明石自然版
+70290306: 流明石人文版采集物
+70290307: 流明石操作台
+70290308: 烈性炸药桶
+70290309: 可燃气体
+70290310: 可破坏升降障碍物 小
+70290311: 可破坏升降障碍物 大
+70290312: 信号装置
+70290313: 容彩祭 插花花盆01
+70290314: 容彩祭 插花花盆02
+70290315: 容彩祭 插花花盆03
+70290316: 容彩祭 插花花盆04
+70290317: 老石底座
+70290318: 光路路径压板
+70290319: 光路路径节点
+70290320: 光路路径指引
+70290321: 回声海螺 影像1
+70290322: 极纯发光蜜虫
+70290323: 岩爆菇小
+70290324: 岩爆菇大
+70290325: 2.6拍照活动开关
+70290326: 天空岛小碎片
+70290327: 小碎片光能链接机关B
+70290328: 小碎片光能连线01
+70290329: 小碎片光能连线02
+70290330: 小碎片光能连线03
+70290331: 被压制的天空岛碎片
+70290332: 大碎片光能链接机关A
+70290333: 大碎片光能连线01
+70290334: 大碎片光能连线02
+70290335: 大碎片光能连线03
+70290336: 大碎片光能连线04
+70290337: 大碎片光能连线05
+70290338: 层岩楔子流光01
+70290339: 层岩楔子流光02
+70290340: 层岩楔子流光03
+70290341: 黑雾
+70290342: 深渊门扉
+70290343: 开山炮
+70290344: 开山炮子弹
+70290345: 流明石人文版
+70290346: 2.6拍照用打点物件
+70290347: 结晶灯（支付版）
+70290348: 容彩祭 大世界 静态花盆01
+70290349: 容彩祭 大世界 静态花盆01
+70290350: 容彩祭 大世界 静态花盆01
+70290351: 容彩祭 大世界 静态花盆01
+70290352: 岩之微粒
+70290353: 发光蜜虫点
+70290354: 连线buff地城 响晶石
+70290355: 连线buff地城 振晶石
+70290356: 辛焱家室内门
+70290357: 层岩下层入口流光01
+70290358: 层岩下层入口流光02
+70290359: 层岩下层入口流光03
+70290360: 层岩下层入口流光04
+70290361: 层岩下层入口流光05
+70290362: 碎裂石板1
+70290363: 碎裂石板2
+70290364: 仪式礼钟
+70290365: 开关木门
+70290366: 发光蘑菇小弟
+70290367: 大蘑菇特效
+70290368: 中继岩髓大02
+70290369: 中继岩髓大03
+70290370: 中继岩髓大04
+70290371: 中继岩髓大05
+70290372: 中继岩髓大06
+70290373: 万叶幻境 供奉台
+70290374: 万叶幻境 供奉物
+70290375: 万叶幻境 可动供奉台
+70290376: 带海报的木牌
+70290377: 2.7推箱子玩法雕像1
+70290378: 2.7推箱子玩法雕像2
+70290379: 2.8万叶幻境 假山
+70290380: 假山 左初始
+70290381: 假山 左稻妻
+70290382: 假山 左蒙德
+70290383: 假山 左璃月
+70290384: 假山 右初始
+70290385: 假山 右稻妻
+70290386: 假山 右蒙德
+70290387: 假山 右璃月
+70290388: 流明石人文版任务表现
+70290389: 隐形光源传送点版
+70290390: 深渊之口_缠绕树枝
+70290391: 浮石静态
+70290392: 深渊门扉（较远视距版）
+70290393: 清心层岩静态
+70290394: 烈性炸药桶-挖掘玩法
+70290395: 坍塌墙壁大（较远视距）
+70290396: 齿轮活动-小
+70290397: 齿轮活动-中
+70290398: 齿轮活动-起点
+70290399: 齿轮活动-大
+70290400: 齿轮活动-中小双层
+70290401: 齿轮活动-大中双层
+70290402: 齿轮活动-齿轮轴
+70290403: 坍塌墙壁大（接子弹版本）
+70290404: 岩屏障LV1
+70290405: 2.7可推小箱子
+70290409: 齿轮玩法画板01
+70290410: 齿轮玩法画板02
+70290411: 齿轮玩法画板03
+70290412: 齿轮玩法画板04
+70290413: 齿轮玩法画板05
+70290414: 齿轮玩法画板06
+70290425: 齿轮玩法拼装台
+70290426: 齿轮玩法拼图台
+70290427: 齿轮活动-终点
+70290428: 地城雾门空气墙
+70290439: 辛焱家室内门 无交互
+70290501: 草元素微粒
+70290502: 辛焱岛 传送门（伪）
 70300001: Item
 70300002: Material
 70300003: SceneObj_Quest_Flying_Get_Coin_Effect
@@ -3744,7 +3785,7 @@
 70350428: SceneObj_Level_Common_Property_Prop_TowerEnhancerV3
 70350429: null
 70350430: SceneObj_UGC_Synchronizer
-70350431: SkillObj_Skiff_BurstSprint
+70350431: 小船_氮气加速
 70350450: SceneObj_Gear_Operator_Mamolu_Entity
 70350452: SceneObj_Gear_Operator_Mamolu_Entity
 70350453: null
@@ -7585,71 +7626,71 @@
 71700552: (test)梦境俱乐部广告牌
 71700553: (test)梦境俱乐部地铺
 71700554: (test)草神技能受击盒02
-70330224: SceneObj_Desert_HeadControlShooter{头部控制射手}
-70330225: 一个跟随的蓝色光锥{靠近跟随}
-70330226: 未知{会以极快的速度发射某种东西}
-70330227: 一个沙漏{有翻转选项}
-70330228: 沙漏2{有翻转选项}
-70330231: SceneObj_Desert_Pipe{管子}
-70330232: SceneObj_Desert_Pipe{管子}
-70330233: SceneObj_Desert_Pipe{管子}
+70330224: 沙漠 大遗迹守卫
+70330225: 沙漠 工程师
+70330226: 沙漠 大遗迹守卫 子弹
+70330227: 沙漠 沙漏30
+70330228: 沙漠 沙漏60
+70330231: 沙漠 水管I型
+70330232: 沙漠 水管L型
+70330233: 沙漠 水管T型
 70330254: 沙漠风滚草
-70330256: 风扇？{Desert_Fan}
-70330257: 蓝色能量团
+70330256: 风扇
+70330257: 元能火种
 70330258: 一个电梯{类似浮生石}
 70330259: 可摧毁的沙漠巨石
-70330260: 能量核心 {XSTEnergyCore}
-70330261: 能量核心 {DeshretEnergyCore_01}
-70330262: 机器人Vine核心 {RobotVineCore}
+70330260: 显圣厅下层能量核心
+70330261: 赤王小型能量柱
+70330262: 蔓藤核心
 70330263: 红色水晶
 70330264: 高科技能量屏障墙
-70330265: 热浪？
+70330265: 昼夜壁画
 70330266: 沙子堆
-70330267: 某种装置{透明Wattle}{对话选项空白 使用后有个东西会出现在头顶}
-70330268: 能量核心控制台{DeshretCoreConsole}
-70330269: 能量核心主体{很大}
-70330270: 神秘壁画
-70330271: 赤王的棺材？
-70330272: 赤王的心脏？
-70330273: 地板{貌似刻着沙漠地图？}
-70330274: 传送门{但什么都没有} {DeshretWarpGate}
+70330267: 透明化枝条
+70330268: 沙漠 赤王陵天上控制台
+70330269: 沙漠 赤王陵主核心
+70330270: 沙漠 秘仪圣殿壁画
+70330271: 沙漠 赤王空棺
+70330272: 沙漠 赤王之心
+70330273: 沙盘地图
+70330274: 赤王陵传送门
 70330275: 权限升级程序{机翻}
 70330276: 可拾取的符文{立着}
 70330277: 可激活的符文方尖碑
 70330278: 能量火炬
 70330279: 能量存储装置
-70330280: 赤王发射器{ChiWang_Shooter}
-70330281: 赤王接收器{ChiWang_Shooter_Receive}
-70330282: 屏障发生器{看不见}
-70330283: 沙漠控制台{DeshretConsole}
-70330284: 指南手册石板{DeshretGuideManual}
+70330280: 射线装置
+70330281: 射线接收装置
+70330282: 能量罩发生器
+70330283: 权限操作台
+70330284: 赤王石板
 70330285: 和3.0剧情中控制大宝一样 这个也是控制某个东西发射
 70330286: 射出来的大炮{对应上面}
-70330287: 幻影地板
+70330287: 电梯盖板
 70330288: 幻影地板2{会有闪烁特效 到最后会消失}
-70330289: 风滚草发射器{Tumbleweed_Shooter}
-70330290: 风滚草发射器子弹{Tumbleweed_Shooter_Bullet}
-70330291: 头部控制射手虚拟点{HeadControlShooter_DummyPoint}
-70330292: 沙漠Rose种子
-70330293: 沙漠Rose花
+70330289: 风滚草射击器
+70330290: 风滚草射击器 子弹	
+70330291: 大机器人dummy点
+70330292: 沙漠蔷薇种子
+70330293: 沙漠蔷薇花
 70330294: 沙漠苗圃
-70330295: 沙漠仓鼠？{Desert_Hamster}
-70330297: 沙漠隐形楼梯
-70330298: 隐形楼梯{大点的}
-70330299: 假Rose种子
+70330295: 沙漠 日常 打地鼠
+70330297: 红色楼梯
+70330298: 蓝色楼梯
+70330299: 假蔷薇种子
 70330300: 赤王射手基座
-70330301: 沙漠仓鼠？{Desert_Hamster}
-70330302: 腐烂{Rot}方尖碑
-70330303: 一个底座
-70330304: 沙漠重力板
-70330308: 垂直风扇{Desert_Fan_Vertical} 
-70330309: 透明生成器{触碰元件互动}
+70330301: 日常 打地鼠 无鼹鼠坑
+70330302: 沙漠 旋转方尖碑
+70330303: 沙漠 旋转方尖碑底座
+70330304: 沙漠 赤王庙重力压板
+70330308: 垂直风扇
+70330309: 透明化发生器
 70330310: 沙漏3{翻转互动}
 70330311: 激光{旋转元件选项}
 70330312: 激光接收器
 70330313: 基础能量存储装置
-70330314: 基础透明生成器
-70330315: 基础透明Wattle
+70330314: 建筑基底 透明化发生器
+70330315: 建筑基底 透明枝条
 70330316: 金字塔内升降梯
 70330317: 电梯阻断器{电梯范围}
 70330318: 阿如村的木升降台
@@ -7673,52 +7714,52 @@
 70330342: 沙漠摩拉箱
 70330343: 沙漠限时挑战
 70330344: 沙漠打炸药桶挑战
-70330345: null
-70330346: null
-70330347: null
-70330348: null
-70330349: null
-70330350: null
-70330351: 沙漠苗圃
-70330353: 方形水面
-70330354: Smdeng锥光体
-70330355: 可翻转沙漏
-70330356: 可激活方尖碑
-70330357: 可激活方尖碑
-70330358: 可激活方尖碑
-70330359: 可激活方尖碑
-70330360: 可激活方尖碑
-70330361: 可激活方尖碑
-70330362: 可激活方尖碑
-70330363: 可激活方尖碑
-70330364: 可激活方尖碑
+70330345: 赤王压草片 A1
+70330346: 赤王压草片 A2
+70330347: 赤王压草片 B1
+70330348: 赤王压草片 B2
+70330349: 赤王压草片 C1
+70330350: 赤王压草片 C2
+70330351: 沙漠 苗圃完成后
+70330353: 赤王移动水面L180W40
+70330354: 花海灯
+70330355: 须弥 沙漠 沙漏纯计时
+70330356: 沙漠 赤王方尖碑
+70330357: 沙漠 赤王方尖碑
+70330358: 沙漠 赤王方尖碑
+70330359: 沙漠 赤王方尖碑
+70330360: 沙漠 赤王方尖碑
+70330361: 沙漠 赤王方尖碑
+70330362: 沙漠 赤王方尖碑
+70330363: 沙漠 赤王方尖碑
+70330364: 沙漠 赤王方尖碑
 70330365: 沙漠电梯
-70330366: 可拾取的符文
-70330367: 可拾取的符文
-70330368: 可拾取的符文
-70330369: 可拾取的符文
-70330370: 可拾取的符文
-70330371: 可拾取的符文
-70330372: 可拾取的符文
-70330373: 可拾取的符文
-70330374: 可拾取的符文
-70330375: 可拾取的符文
-70330376: 可拾取的符文
-70330377: 可拾取的符文
-70330378: 可拾取的符文
-70330379: 可拾取的符文
-70330380: 可拾取的符文
-70330381: 可拾取的符文
-70330382: 可拾取的符文
-70330383: 可拾取的符文
-70330384: 可拾取的符文
-70330385: 可拾取的符文
-70330386: 可拾取的符文
-70330387: 可拾取的符文
-70330388: 可拾取的符文
-70330389: 可拾取的符文
-70330390: 可拾取的符文
-70330391: 可拾取的符文
+70330366: 沙漠 符文石板_A
+70330367: 沙漠 符文石板_B
+70330368: 沙漠 符文石板_C
+70330369: 沙漠 符文石板_D
+70330370: 沙漠 符文石板_E
+70330371: 沙漠 符文石板_F
+70330372: 沙漠 符文石板_G
+70330373: 沙漠 符文石板_H
+70330374: 沙漠 符文石板_I
+70330375: 沙漠 符文石板_J
+70330376: 沙漠 符文石板_K
+70330377: 沙漠 符文石板_L
+70330378: 沙漠 符文石板_M
+70330379: 沙漠 符文石板_N
+70330380: 沙漠 符文石板_O
+70330381: 沙漠 符文石板_P
+70330382: 沙漠 符文石板_Q
+70330383: 沙漠 符文石板_R
+70330384: 沙漠 符文石板_S
+70330385: 沙漠 符文石板_T
+70330386: 沙漠 符文石板_U
+70330387: 沙漠 符文石板_V
+70330388: 沙漠 符文石板_W
+70330389: 沙漠 符文石板_X
+70330390: 沙漠 符文石板_Y
+70330391: 沙漠 符文石板_Z
 70330392: 隐形地板
 70330393: 隐形上坡
 70330394: 沙漠火炬
@@ -7734,33 +7775,33 @@
 70330404: 沙漠草方碑
 70330405: 沙漠岩方碑
 70330406: 沙漠大石堆
-70330407: 沙漠子弹发射器{BulletCreator}
-70330409: 须弥物理草{XuMiPhysicalgrass_01}
-70330410: 须弥物理草2
+70330407: 沙漠 弹幕机关发射器
+70330409: 沙漠 体力草-插地版
+70330410: 沙漠 体力草-插山版
 70330411: 幻影火炬
-70330412: 赛诺Rotation眼
-70330413: 未知{对地面貌似有影响}
-70330414: 未知{对地面貌似有影响}
-70330415: 对地面有影响
-70330416: 沙漠大门
-70330417: 沙漠大门2
-70330418: 沙漠大门3
-70330419: 沙漠大门4
-70330420: 沙漠大门5
+70330412: 赛诺眼睛墙壁
+70330413: 沙漠 沙子decal}
+70330414: 沙漠 沙子decal}
+70330415: 沙漠 沙子decal
+70330416: 沙漠 赤王大门01
+70330417: 沙漠 赤王大门02
+70330418: 沙漠 赤王大门03
+70330419: 沙漠 赤王大门04
+70330420: 沙漠 赤王大门05
 70330421: 水平射击-火
 70330422: 360°射击扩散-火
-70330423: 变形墙
-70330424: 变形墙
+70330423: 沙漠 赤王庙 显影墙体_大
+70330424: 沙漠 赤王庙 变化墙体_大
 70330425: 赛诺的楼梯{隐形}
-70330426: 沙漠瓶子
-70330427: 沙漠大罐子
-70330428: 沙漠小罐子
-70330429: 沙漠的破裂罐子
-70330430: 沙子堆
+70330426: 沙漠 沙罐01
+70330427: 沙漠 沙罐02
+70330428: 沙漠 沙罐03
+70330429: 沙漠 沙罐04
+70330430: 须弥 沙漠 沙堆大
 70330431: 固定的半永恒统辖矩阵
 70330432: 固定的元能构装体
 70330433: 巨大的传送门
-70330434: 沙漠风格的风场
+70330434: 沙漠风场 30m
 70330435: 沙漠风格草种子
 70330436: 沙漠的树枝门
 70330437: 沙漠的树枝门
@@ -7768,87 +7809,87 @@
 70330439: 沙漠限时挑战
 70330440: 沙漠打炸药桶挑战
 70330441: 沙漠火方碑
-70330442: Deshret核心2
-70330443: Deshret核心3
-70330444: 一块石柱
-70330445: 有阅读选项
-70330446: 赛诺Rotation眼2
+70330442: 须弥 沙漠 赤王小型能量柱
+70330443: 须弥 沙漠 赤王小型能量柱
+70330444: 沙漠 赤王庙 移动墙体立柱
+70330445: 沙漠 隐形阅读物
+70330446: 赛诺眼睛墙壁
 70330447: 沙漠神像{实际上还是须弥的} 区别在底座
 70330448: 沙漠传送点
 70330449: 沙漠烈焰花
-70330450: 一小堆草 
-70330451: 沙漠树枝屏障
-70330452: 沙漠移动墙-无效果{NoEffect}
-70330453: 赛诺的门
-70330454: 可摧毁的沙漠巨石
-70330455: 赛诺楼梯{消失的很快}
-70330456: 红蓝电梯
-70330457: 一个很巨大的东西 消失的很快{没看清}
-70330459: 普通墙面开关3
+70330450: 沙漠-烈焰花底座
+70330451: 沙漠手动破坏藤蔓
+70330452: 沙漠 赤王庙 大移动墙（上下12）
+70330453: 赛诺大门
+70330454: 须弥 沙漠 能破坏的山石
+70330455: 赛诺伸缩楼梯
+70330456: 沙漠 红蓝楼梯
+70330457: 沙漠 圣显厅
+70330459: 沙漠 大世界通用交互机关（墙面）
 70540046: 赤念果
 70540047: 枣椰
-70540048: 未知{Gadget_Special_Middle_01}
-70800230: 某种装置{好像是打猎用的}
+70540048: 须弥蔷薇（不可采集）
+70800230: 3.1捕猎活动_捕网陷阱[LD布设版]
 70800231: 捕兽夹
-70800232: 捡起后获得护盾？{SceneObj_Level_Activity_Hunting_Shield_PickUp}
-70800233: 无效{SceneObj_Level_Activity_Hunting_Shield}
-70800234: 无效{SceneObj_Level_Activity_Hunting_Bullet}
+70800232: 3.1捕猎活动_可拾取护盾球[LD布设]
+70800233: 3.1捕猎活动_护盾
+70800234: 3.1捕猎活动_投掷子弹
 70800235: 启动烟雾装置
-70800236: 树丛
+70800236: 3.1捕猎活动_草丛[LD布设]
 70800237: 枯树枝{踩到会断}
 70800238: 启动诱饵装置
-70800239: 未知{SceneObj_Level_Activity_Exploration_Detect}
-70800240: 未知{SceneObj_Level_Activity_Exploration_Rune}
+70800239: 3.1探索活动_探测器
+70800240: 3.1探索活动_符文
 70800241: 有放入选项{会被推离}
-70800242: 无效{SceneObj_Level_Activity_Maze_WindField_H}
-70800243: 无效{SceneObj_Level_Activity_Maze_WindField_V}
-70800244: 无效{SceneObj_Level_Activity_Maze_WindField_H_02}
-70800245: 无效{SceneObj_Level_Activity_Maze_WindField_V_02}
-70800246: 询察五风活动页面上那个机关
-70800247: 停止附近风场选项{会被推离}
-70800248: 鼓动附近风场选项
-70800249: 未知{SceneObj_Level_Common_Property_Prop_MuteTheBgm_01}
-70800250: 寻星之旅的东西
-70800251: 风种子{无法拾取}
-70800252: 缩小版杂物堆
-70800253: 装点店铺
-70800254: 棚子
-70800255: 没有东西{但是会档视角}
-70800256: 没有东西{但是会档视角}
-70800257: 无效
-70800258: 小推车
-70800259: 花展+气球
-70800260: 遮阳小餐桌
-70800261: 招牌
-70800262: 红+蓝棋子
-70800263: 一排旗帜 红蓝三角形旗
-70800264: 面包
-70800265: 小招牌
-70800266: 立着2个小风车的小花丛
-70800267: 挂着的鸡腿
-70800268: 挂着的小花丛
-70800269: 挂着的铃铛
-70800270: 棚子+货物+桌子
-70800271: 水果店{你这瓜保熟吗}
+70800242: 3.1迷宫_横向风场
+70800243: 3.1迷宫_竖直风场
+70800244: 3.1迷宫_横向风场_加强
+70800245: 3.1迷宫_竖直风场_加强
+70800246: 3.1迷宫_风场发射器
+70800247: 3.1迷宫_风场开关操作台
+70800248: 3.1迷宫_风场强化操作台
+70800249: 辛焱幻境地城音效物件
+70800250: 3.1探索活动_探测器_子物件
+70800251: 3.1活动风种子
+70800252: 3.1活动摊位_主角摊位_初始
+70800253: 3.1活动摊位_主角摊位_完整
+70800254: 3.1活动摊位_顶棚_初始[废弃]
+70800255: 3.1活动摊位_顶棚_红[废弃]
+70800256: 3.1活动摊位_顶棚_绿[废弃]
+70800257: 3.1活动摊位_顶棚_蓝[废弃]
+70800258: 3.1活动摊位_侧边景观_1[废弃]
+70800259: 3.1活动摊位_侧边景观_2[废弃]
+70800260: 3.1活动摊位_侧边景观_3[废弃]
+70800261: 3.1活动摊位_挂饰A_1[废弃]
+70800262: 3.1活动摊位_挂饰A_2[废弃]
+70800263: 3.1活动摊位_挂饰A_3[废弃]
+70800264: 3.1活动摊位_挂饰B_1[废弃]
+70800265: 3.1活动摊位_挂饰B_2[废弃]
+70800266: 3.1活动摊位_挂饰B_3[废弃]
+70800267: 3.1活动摊位_店铺前装饰_1[废弃]
+70800268: 3.1风场迷宫_疾风微粒(小球)
+70800269: 3.1风场迷宫_激流纹章(金币)
+70800270: 3.1活动摊位_砂糖摊位_初始
+70800271: 3.1活动摊位_砂糖摊位_完整
 70800272: 丰饶之箱 小地图会显示{杯中遥吟之歌活动}
-70800273: 无法互动 但小地图会显示
-70800274: 活动中的移动地板
-70800275: 长条形的移动地板
-70800276: 掉落地板
-70800277: 柱子撑桥
-70800278: 碎裂的地板
-70800279: 阅读留言选项
-70800280: 上升地板
-70800281: 滑翔冠军球
-70800282: 前进风场 {往前吹的}
+70800273: 3.1找礼物活动_雷达标记空物件
+70800274: 3.1迷宫_移动平台5乘5
+70800275: 3.1迷宫_移动平台5乘15
+70800276: 3.1迷宫_下降平台
+70800277: 3.1迷宫_倾斜平台
+70800278: 3.1迷宫_破碎地板
+70800279: 3.1佳酿节公告板_隐形操作台
+70800280: 3.1迷宫_浮力平台
+70800281: 3.1迷宫_大疾风微粒
+70800282: 3.1迷宫_横向气流
 70800283: 蒙德节日大风车
 70800284: 蒙德节日大风帆
 70800285: 蒙德节日大风车
 70800286: 红色的长方型块
 70800287: 红色的长方型块
 70800288: 地上的树枝
-70800289: 无效{SceneObj_Level_Activity_Exploration_Detect_Target}
-70800290: 任务标点 {按V没反应}
+70800289: 3.1探索活动_探测指示空物件
+70800290: 3.1迷宫_指引用小黄点
 71700517: 新鲜的须弥蔷薇
 71700535: (test)赛芭赠送的蔷薇
 44000455: 风漩涡-地面
@@ -7882,7 +7923,7 @@
 70290158: 稻妻雷灯柱
 70290159: 鹤观雷灯{有沙漠的感觉}
 70290160: 要留念镜扫的那个雕像
-70290161: 未知{SceneObj_Area_Dq_Property_Prop_TsurumiMuralMount_01}
+70290161: 鹤观 壁画特效
 70290162: 巨石顶部有草坪
 70290163: 巨石顶部有草坪
 70290164: 巨石顶部有草坪
@@ -8188,9 +8229,9 @@
 70590047: 键纹4{解锁选项}
 70590048: 键纹5{解锁选项}
 70330041: 领取奖励{蓝色光点}
-70330138: 打怪挑战
-70330139: 打怪挑战
-70330160: 打怪挑战{对话选项无字}
+70330138: 渊下宫 黑夜挑战机关
+70330139: 渊下宫 黑夜挑战机关
+70330160: 渊下宫 黑夜挑战机关 循环
 70350092: 打怪挑战
 70800054: 打怪挑战
 70360128: 挑战点
@@ -8202,26 +8243,26 @@
 70350457: 须弥的一个限时挑战
 70350084: 射炸药桶挑战
 70350094: 射炸药桶挑战
-70350023: 地脉镇石
-70350087: 地脉镇石
+70350023: 地脉镇石-守护玩法
+70350087: 地脉镇石-守护玩法
 70310122: BOOS挑战开始
-70360010: 秘境挑战开启点？
-70360367: 秘境挑战开启点{无底座}
-70330150: 一个活动的挑战
+70360010: 元素地城操作台
+70360367: 元素地城操作台（无底座）
+70330150: 水龙蜥挑战活动机关
 70350250: 浪船比赛开始挑战
 70350458: 浪船比赛开始挑战
-70360155: 未知的挑战{时间？}
-70360156: 未知的挑战{回血？}
-70360157: 未知的挑战{攻击？}
-70360158: 未知的挑战
+70360155: 试玩活动地城操作台-时间
+70360156: 试玩活动地城操作台-复活
+70360157: 试玩活动地城操作台-攻击加成
+70360158: 试玩活动地城操作台-加速
 70380236: 2.8后期需多人挑战的活动挑战
 70360149: 挑战洛蒂娅的愤怒
 70360146: 幻影心流
 70360152: 风花节挑战
 70360153: 风花节挑战
-70360160: 未知挑战{长的像A的字母}
-70360161: 未知挑战{提瓦特文字}
-70360162: 未知挑战{提瓦特文字}
+70360160: 试玩活动地城解密机关_子1
+70360161: 试玩活动地城解密机关_子2
+70360162: 试玩活动地城解密机关_子3
 70360272: 海岛挑战
 70360313: 挑战魔花
 70380233: 2.8迪卢克挑战开启点
@@ -8309,24 +8350,25 @@
 70380008: 地脉树
 70290022: 围忍冬树的冰块
 70290032: 忍冬之树{只能互动}
-70290100: 稻妻那种雷树桩
-70290101: 一样
+70290100: 焦灼树木-普通版
+70290101: 焦灼树木-无限版
 70290366: 层岩蘑菇{充能互动}
-70360323: 鹤观栖木
-70360300: 枯萎的栖木
-70290418: 须弥枯树
-70290419: 一样
-70290420: 有少许绿叶 靠近恢复能量？
+70360323: 鹤观 雷鸟栖木
+70360300: 鹤观 雷鸟栖木
+70290418: 小草神殿树
+70290419: 大草神殿树
+70290420: 莎兰树
 70290511: 恒那兰那的梦之树{互动选项}
+70290512: 恒那兰那的梦之树升级特效
 70290094: 稻妻神樱树{互动选项}
-70330242: 一朵植物
-70900294: 气球草
-70360008: 气球草
-70360014: 气球
-70360076: 发光的气球草
-70360078: 气球
-70900307: 树桩上长小灯草
-70950063: ？？？靠近有草环
+70330242: 树
+70900294: 气球树
+70360008: 膨膨果树
+70360014: 膨膨果移动靶标
+70360076: 幽灵膨膨果树
+70360078: 幽灵膨膨果移动靶标
+70900307: 树根
+70950063: 焦灼树木-残雷（test）
 70950065: 稻妻雷树
 70220004: 炸弹花
 70220055: 冰炸弹花
@@ -8376,7 +8418,7 @@
 70520038: 星蔁
 70540001: 树莓
 70540003: 苹果
-70900286: 大苹果{无法互动}
+70900286: 人参果树上
 70540004: 鸟蛋
 70540005: 松果
 70540008: 绝云椒椒
@@ -8464,17 +8506,17 @@
 70360295: 海祈岛解谜
 70360296: 海祈岛解谜
 70360297: 海祈岛解谜
-70360092: 璃月那种可对话的底座
-70360170: 解谜中的开关
-70360180: 清籁岛那艘船上的解谜
-70360181: 清籁岛那艘船上的解谜
-70360182: 清籁岛那艘船上的解谜
-70360183: 清籁岛那艘船上的解谜
-70360179: 稻妻任务中那个地道门{有成就的那个}
-70290170: 渊下宫墙{解密用}
-70290183: 一个木制平台{有望不到边的锁链}
-70290184: 一样{这个附带楼梯}
-70290377: 未知
+70360092: 遗迹宝藏（屏蔽客机）
+70360170: 人类拉杆机关
+70360180: 舵（单大锚）
+70360181: 舵（大小锚）
+70360182: 舵（双大锚）
+70360183: 舵（双小锚）
+70360179: 单向木制海盗盖板
+70290170: 可控机关墙壁
+70290183: 地城旋转楼梯1
+70290184: 地城旋转楼梯2
+70290377: 2.7推箱子玩法雕像1
 70290234: 渊下宫中心台座{台座下面会有屏障}
 70290241: 正方形的大方块{我记得是用来推的}
 70310070: 方块机关 无法使用
@@ -8508,13 +8550,13 @@
 77304044: 墩墩桃
 77304045: 须弥蔷薇
 77015008: 邀请点
-77091001: 普通木门
-77101053: 木门
-77101054: 木门
-77101057: 两扇大门
-77101058: 一扇大门
-77101059: 木门
-77101060: 稻妻滑门
+77091001: 家园测试用门
+77101053: 璃月房间门01
+77101054: 蒙德房间门01
+77101057: 璃月房间门02
+77101058: 蒙德房间门02
+77101059: 稻妻室内大门01
+77101060: 稻妻室内大门02
 77103005: 烹饪炉
 77103006: 烹饪炉{小}
 77104001: 蒙德壁炉
@@ -8526,29 +8568,29 @@
 77115021: 烹饪炉
 77108021: 莫娜秘境那个光球
 70710829: 须弥光球
-77108021: 蒙德灯{怎么和莫娜秘境里那个差不多}
-77208018: 可触碰的灯{璃月}
-77215056: 可触碰的琴弦{璃月}
-77101053: 感应木门 77101054一样
+77108021: 莫娜梦境玻璃星星
+77208018: 大型霄灯
+77215056: 戏曲琴乐器组合
 77203002: 锻造台
 77203006: 合成台
 70500020: 质量参变仪
 71700119: 大平台
-77200035: 蒙德主宅
-77200040: 璃月主宅
-77200057: 稻妻主宅
-77200098: 须弥主宅 拿稻妻房屋套模了
+77200035: 蒙德主建筑
+77200040: 璃月主建筑
+77200057: 奉行所主楼
+77200098: 稻妻主建筑
+77200158: 须弥主建筑
 77200110: 稻妻樱花树
-77200127: 须弥的家具
-77204042: 须弥的邮箱？
-77104022: 切BGM用的
-77215055: 大篝火
-77112020: 放邀约照片的
-77307016: QQ人训练的木桩
-77115026: 新家具：鱼缸
-77115027: 新家具 类似火炬
-77204097: 新家具 火炬
-77215060: 疑似新家具
+77200127: 兰那罗幻梦之门梦境灵
+77204042: 邮箱
+77104022: 室内埙型乐器
+77215055: 火堆
+77112020: Coop线画框
+77307016: 家园打木桩 木桩
+77115026: 室内鱼缸
+77115027: 固体炼金釜
+77204097: 佣兵团火盆
+77215060: 木刻身体 颜色1身体A
 77215061: -71
 77306090: -99
 77306100: -113--貌似都:是叫组装雕刻
@@ -8568,21 +8610,21 @@
 70330129: 神秘的石板
 70330195: 破损的石板
 70330195: 203-209破损的石板
-70510001: 未知
-70510011: 草史莱姆花？
-70540002: 未知
-70540006: 未知
-70540011: 某种植物的根
-70900284: 一阵风锤你一下
+70510001: 渴渴花果实
+70510011: 史莱姆花
+70540002: 冰雾花花蕊
+70540006: 烈焰花花蕊
+70540011: 落落莓树
+70900284: 人参果
 70590001: 元素晶体
 70590002: 元素果实
 70590005: 元素晶尘
-70590062: 无名
-70900001: 无名
-70900234: 无名
-70900235: 无名
+70590062: 生锈千岩头盔
+70900001: 临时资源（采集物）
+70900234: 残破的烈焰花
+70900235: 地城
 70900240: 石珀？但是没名
-70950016: 无名{小地图有显示蓝圈}
+70950016: 陨星碎屑{小地图有显示蓝圈}
 70300006: 无效
 40200001: 贼高的风场
 70500005: 风场
@@ -8661,11 +8703,11 @@
 70360109: 冰护盾
 70360106: 大型护盾{箭无法射入}
 70290118: 稻妻雷护盾
-70290497: 草护盾{很小}
+70290497: 兰那罗护盾Size2
 42301001: 愚人众岩盾
-70350353: 屏障{焯 给关里边了}
-70800004: 超大屏障{璃月解谜里的那个}
-70800008: 大屏障
+70350353: UGC 起点 运行
+70800004: 丘丘圣山屏障
+70800008: 丘丘圣山屏障M
 70800007: 一个蓝色的环
 70330046: 机关奇谭开活动的那个
 70350099: 水塔
@@ -8677,7 +8719,7 @@
 70350101: 冰塔
 70350114: 冰塔lv2
 70350119: 冰塔lv3
-70350126: ？？什么东西 冰防御塔里塞落冰
+70350126: 塔防 冰炮塔 冰锥
 70350102: 风塔
 70350115: 风塔lv2
 70350120: 风塔lv3
@@ -8973,30 +9015,30 @@
 77304040: （test）无名花19
 77304041: （test）无名花20
 77304042: （test）无名花21
-72000001: 魔神 奥赛尔
-72000002: 魔神 奥赛尔
-72000003: 魔神 奥赛尔
-72000004: 魔神 奥赛尔
-72000005: 魔神 奥赛尔
-72000009: 奥赛尔攻击
-72000010: 仙人【鹿】
-72000011: 仙人【鹤】
-72000012: 仙人【鹤】
-72000013: 一团黑烟{愚人众登场}
-72000014: 奥赛尔大招
-72000015: 直射水球
-72000016: 不知道什么
-72000017: 归终机
-72000018: 不知道什么
-72000019: 死域boos
-72000021: 不知道什么{20暂无}
-72000022: 死域boos射的球
-72000023: 持续挨打{虽然是-1}
-72000024: 让草地变秃
-72000025: 无效
-72000026: 一滩红水
-72000027: 高速挨打{死域boos大招}
-72000028: 无效
+72000001: 群玉阁-海底古神-PA
+72000002: 群玉阁-海底古神-PB
+72000003: 群玉阁-海底古神-PC
+72000004: 群玉阁-海底古神-PD
+72000005: 群玉阁-海底古神-PE
+72000009: 群玉阁-引水弹
+72000010: 群玉阁-鹿仙人
+72000011: 群玉阁-鹤仙人甲
+72000012: 群玉阁-鹤仙人乙
+72000013: 群玉阁-迷雾{愚人众登场}
+72000014: 群玉阁-古神必杀技
+72000015: 群玉阁-古神水弹
+72000016: 群玉阁-古神必杀技控制器
+72000017: 群玉阁-归终机
+72000018: 群玉阁-空复活器
+72000019: 无留陀的化身
+72000021: 无留陀的化身_技能1
+72000022: 无留陀的化身_技能2
+72000023: 无留陀的化身_技能3
+72000024: 无留陀Volume01
+72000025: 无留陀Volume02
+72000026: 无留陀黑泥
+72000027: 无留陀的化身_subEmit生命控制器
+72000028: 无留陀终战空气墙
 70290292: 渊下宫大门
 70220001: 草堆
 70220002: 草堆
@@ -9110,9 +9152,9 @@
 70220111: 藤蛮柱子 无法消除
 70220112: 藤蛮柱子 无法消除
 70220113: 星空垫子? 碰到会上水 无法消除
-70220114: 没东西
+70220114: 特殊星座图案
 70220115: 灯
-70220116: 没东西
+70220116: 特殊星座图案 透镜
 70220117: 大石堆
 70220118: 上升气流 无法消除
 70220119: 小光点 无法消除
@@ -9123,7 +9165,7 @@
 70220124: 风石 打掉会生成上升气流
 70220125: 草炸弹桶
 70220126: 雷炸弹桶
-70220127: 没东西
+70220127: 氮气球吸附
 70220128: 有扑克牌的木板 无法消除
 70220129: 精致的宝箱
 70310001: 火台
@@ -9178,7 +9220,7 @@
 70310052: 方块 无法消除
 70310053: 方块 无法消除
 70310054: 隔离方块 无法出去
-70310056: 没东西
+70310056: 躲猫猫_猎人出生点
 70310057: 长透明墙 无法消除
 70310058: 留声机 无法使用
 70310059: 解谜地板 无法消除
@@ -9220,7 +9262,7 @@
 70310095: 石碑 无法消除
 70310096: 石碑 无法消除 F有开启 但无作用
 70310097: 石碑 无法消除
-70310098: 没东西
+70310098: 鹤观 隐形交付台
 70310099: 木箱
 70310100: 火炸药桶
 70310101: 爆炸黑色方块
@@ -9229,7 +9271,7 @@
 70310104: 大小灯笼跟一堆屏风
 70310105: 大小灯笼跟一堆屏风
 70310106: 黑色方块迷雾 会散掉就不见了
-70310107: 没东西
+70310107: 古代热源-嘲讽外壳-逐月节专用
 70310108: 挡人的漩涡 无法消除
 70310109: 家攻击的光球
 70310110: 补血光球 无作用
@@ -9246,7 +9288,7 @@
 70310121: 问号图标 无作用
 70310122: 红色图标 无作用
 70310123: 强化武士头 无作用
-70310124: 没东西
+70310124: 肉鸽 操作台 编队
 70310125: 木门 无法消除
 70310126: 有神秘光的东西
 70310127: 像起烟的东西 无作用
@@ -9288,32 +9330,31 @@
 70310163: 青色发光枫叶
 70310164: 黄色发光枫叶
 70310165: 红色发光枫叶
-70310166: 大喇叭
-70310167: 小喇叭
-70310168: 射出去的黄色音符
-70310169: 大喇叭
-70310170: 小喇叭
-70310171: 蔓藤石碑 无法消除
-70310172: 没东西
-70310173: 乌鸦石像
-70310174: 不明U型物
+70310166: 传音花大
+70310167: 传音花小
+70310168: 传音花子弹
+70310169: 传音花大 固定
+70310170: 传音花小 固定
+70310171: 音符植物
+70310172: 传送门 隐形交付台
+70310173: 夜鸦雕像A
+70310174: 夜鸦滑轨坐点 金
 70310175: 乌鸦石像
 70310176: 开关方块 无法消除 无作用
 70310177: 没东西
 70310178: 水晶球?
 70310179: 光球 无作用 无法消除
-70310181: 没东西
-70310182: 没东西
-70310183: 没东西
+70310181: 万叶幻境阶段灯光1
+70310182: 万叶幻境阶段灯光2
+70310183: 万叶幻境阶段灯光3
 70310184: 打灯光? 无法消除
 70310185: 层岩充能祭坛
 70310186: 大音符藤蔓
 70310187: 小音符藤蔓
 70310188: 绿色光环
 70310189: 没东西
-70310190: 绿红仙灵 无法消除 无作用
-70310191: 红光枯木
-70310192: 红光枯果 会伤人
+70310191: 生命源质
+70310192: 死域飞弹发射器
 70310193: 红光枯木
 70310194: 红叶枯木
 70310195: 红叶枯花
@@ -9326,235 +9367,235 @@
 49001020: 没反应
 49001021: 飞石
 49001022: 飞石
-70220006: 大岩柱
-70220007: 岩墙
-70220008: 小岩堆
+70220006: 石柱
+70220007: 碎石堆
+70220008: 石块
 70220009: 小石头
-70220018: 大岩柱
-70220019: 大岩柱
+70220018: 石柱_不可攀爬
+70220019: 石柱_不可攀爬_不可破坏
 71700521: 大岩封
-70220021: 大岩封
+70220021: 大世界碎石堆小
 70310013: 浮生石
-70310020: 浮生石【蓝色的】
-70310032: 浮生石【蓝色的】
-70350020: 石柱【蓝】
-70350030: 岩墙【蓝】
-70900216: 岩地板
+70310020: 岩浮板
+70310032: 岩浮板(不可攀爬)
+70350020: 地城倒塌石柱
+70350030: 地城倒塌墙壁
+70900216: 可破坏地板
 70710587: 大岩封{更大些}
-70330116: 类似雷极的东西
-70350075: 护盾强效buff
-70350088: 雪山供暖祭坛
-70350089: 雪山暴风雪特效
-70950044: 雪山上浮空的石头
+70330116: 雷灵感应充能桩大世界
+70350075: 螺旋深渊_护盾
+70350088: 古代热源
+70350089: 冰风暴R25
+70950044: 天空岛柱子氛围
 77015004: 尘歌壶的阿圆
-70330037: 在此范围内将持续受到草元素附着
-70330038: 这是更大的
-70800207: 草神瞳中间的球
-70220103: 不知道什么 像一个标记
-70220104: 和上面那个应该对应 像引路的
-70220105: 一个花还有个圈 不知道是什么
-70220120: 草爆炸果 就地雷嘛
-70270005: 不知道什么 没反应
-70270006: 没反应
-70270008: 这个也是没反应
-70270009: 貌似一个池塘 会发光
-70290390: 一根大树枝
-70290408: 没反应
-70290415: 一个小石柱 造型独特 
-70290416: 一样也是个石柱
-70290417: 没反应
-70290418: 就 往昔的恒那兰那 的那种树
-70290419: 一样也是
-70290420: 小树 底部会发散草元素一样的东西
-70290421: 一个封印一样的东西 被奇怪的符文成圆形围绕起来
-70290422: 一个小石柱
-70290423: 也是一个封印 只不过比上面的那个更大了些
-70290424: 这个更大了 也是封印一样的东西
-70290429: 一个小光圈 特别小
-70290430: 一样也是个光圈
-70290431: 还是一样
-70290432: 怎么还是
-70290433: 绝了 还是光圈
-70290434: 还是光圈
-70290436: 一个树干 里边有水
-70290437: 一个水泡
-70290440: 一个底座一样的东西
-70290441: 貌似是舞台用具
-70290442: 小草根 上边有果子一样的东西--舞台用具
-70290443: 舞台用具
-70290444: 小板凳 也是舞台用具
-70290445: 杯子？也是舞台用具
-70290446: 茶壶 舞台用具
-70290447: 木桶--舞台用具
-70290448: 也是舞台用具
-70290449: 一个白色能量球
-70290451: 看样子是跟随仙灵？有点小{不是跟随的草仙灵}
-70290470: 一个瀑布底部 好大
-70290471: 也是一个瀑布底部 比刚刚那个小点
-70290472: 树叶堆？
-70290473: 真菌孢子堆
-70290474: 更大点的真菌孢子堆
-70290475: 草元素护盾 圆形的小个 不是反应的那个护盾
-70290476: 没反应
-70290477: 没反应
-70290478: 还是没反应
-70290479: 没反应哎
-70290488: 一个木门 是打开状态
-70290489: 好像是教令院的门
-70290490: 一样也是门
-70290491: 没反应
-70290492: 没反应哎
-70290494: 一样没反应
-70290497: 是个更大的草护盾
-70290498: 没反应哎
-70290499: 还是一样没反应
-70290500: 没反应
-70290501: 草元素的能量球 就是那个要吃点的那个挑战 一样的球
-70290507: 一朵花？中间有草元素
-70290511: 没反应
-70290512: 没反应
-70290513: 一条红色的线 好像是什么指引的
-70290517: 纵横交错的树枝 有空气墙的作用
-70290518: 不知道是什么 召唤出来草会消失
-70290529: 一个漂浮的emm水母？
-70290530: 没反应
-70290531: ？不知道是什么 和神瞳一样 会转
-70290532: 这个更大了
-70290544: 纵横交错的树枝 有空气墙的作用
-70290545: 貌似也是个底座
-70290546: 没反应哎
-70290551: 不知道是啥 没看见 但会叮的一声
-70290552: 白色能量球 也会叮~
-70290555: 一根立起来的树枝
-70290556: 一块大石头
-70290557: 也是石头
-70290558: 更大的石头
-70290559: 一个小寺庙？
-70290560: 超大小宝的零件
-70290561: 3块石头
-70290562: 立起来的超大石柱
-70290563: 接近沙漠的那种贼大的树
-70290564: 草元素的一个球？但是是空心的
-70290565: 一样也是 但更小了
-70290566: 一样 但是中间会发光了
-70290571: 一块石头
-70290581: 草元素的一个球 但是是空心的{脚底点}
-70290585: 什么都没有
-70290586: 一样
-70290587: 一个封印一样的东西 被奇怪的符文成圆形围绕起来
-70290588: 更大了
-70290589: 超大的一个
-70290590: 草元素的石头？中间
-70290591: 一堆石砖
-70290596: 什么都没有
-70310191: 须弥石柱和雪山那个供暖的差不多
-70310192: 貌似是死域的东西 会射东西对着你打
-70310193: 死域的东西 外形像花
-70310194: 死域的东西
-70310195: 死域的东西
-70310196: 死域的红线
-70310197: 一个貌似底座一样的东西 还会飘
-70310200: 不知道什么 类似神瞳一样的东西
-70310201: 一样也是
-70310202: 什么都没有
-70310205: 草树门？
-70310207: 草种子消失的很快
-70310208: 什么都没有
-70310209: 会直飞的草元素攻击物 和层岩地下那个打一下会飞的类似
-70310210: 什么都没有
-70310211: 死域的东西 收缩状态 结束会造成伤害
-70310212: 一样也是
-70310213: 直飞的死域的射线？
-70310214: 被草撑裂开的元素方杯
-70310215: 圆形石柱 有树枝缠绕
-70310216: 小一点的
-70310217: 不知道是啥 被撑裂的小石头
-70310218: 一样 就是下面多了蘑菇
-70310219: 什么都没有
-70310220: 鼹鼠洞？
-70310221: 死域那个东西射的球
-70310222: 什么都没有
-70310225: 一大片湖 慎用!
-70310226: 啥都没有
-70310227: 须弥邮箱
-70310229: 死域的东西
-70310230: 死域的东西
-70310253: 月莲 可摘采物
-70310254: 圣王蘑 可摘采
-70310255: 帕蒂沙兰 可摘采(但实际摘不了)
+70330037: 炼金草 小
+70330038: 炼金草 大
+70800207: 草元素结晶核心
+70220103: 须弥钩爪
+70220104: 梦境之灵
+70220105: 梦境灵花
+70220120: 草元素爆炸子弹
+70270005: 死域控制器
+70270006: 回流之柱
+70270008: 回流之柱-拍照物件
+70270009: 回流之柱-盖子
+70290390: 深渊之口_缠绕树枝
+70290408: 寻宝仙灵 元素微粒
+70290415: 净雨阀 
+70290416: 净雨石
+70290417: 兰那罗冲击波
+70290418: 小草神殿树
+70290419: 大草神殿树
+70290420: 莎兰树
+70290421: 十三机兵-封印环1.8m
+70290422: 十三机兵-能量桩01
+70290423: 十三机兵-封印环3m
+70290424: 十三机兵-封印环5m
+70290429: 木刻台地插槽01
+70290430: 木刻台地插槽02
+70290431: 木刻台地插槽03
+70290432: 木刻台地插槽04
+70290433: 木刻台地插槽05
+70290434: 木刻台地插槽06
+70290436: 蓄水树桩-水面
+70290437: 须弥大水泡
+70290440: 木刻台地 地面
+70290441: 木刻台地 背板
+70290442: 木刻台地 灯
+70290443: 木刻台地 桌子
+70290444: 木刻台地 座椅
+70290445: 木刻台地 罐子1
+70290446: 木刻台地 罐子2
+70290447: 木刻台地 罐子3
+70290448: 木刻台地 伞
+70290449: 寻宝仙灵 能量球
+70290451: 寻宝仙灵 离体仙灵
+70290470: 须弥移动水花
+70290471: 须弥移动水花
+70290472: 大号落叶堆
+70290473: 蘑菇头目孢子堆
+70290474: 兰那罗纪念碑孢子
+70290475: 兰那罗护盾
+70290476: ???曲接收器
+70290477: ???曲接收器
+70290478: ???曲接收器
+70290479: 兰那罗冲击波
+70290488: 商业街大门01
+70290489: 商业街大门02
+70290490: 商业街大门03
+70290491: 死域核心光源
+70290492: 死域节点光源
+70290494: 兰罗摩移动平台(只有球）
+70290497: 兰那罗护盾Size2
+70290498: 隐藏受击草
+70290499: 甜甜花
+70290500: 苗圃田
+70290501: 草元素微粒
+70290507: 体力草-插山版
+70290513: 死域指示特效02
+70290517: 藤蔓门
+70290518: 苗圃Volume(前)
+70290529: 飞行光团
+70290530: 苗圃Volume(后)
+70290531: 织梦网(移动平台)
+70290532: 大型织梦网(移动平台)
+70290544: 藤蔓门(0.75Size)
+70290545: 电梯按钮
+70290546: 净雨阀(梦境专用)
+70290551: 寻宝仙灵-元素微粒生成器
+70290552: 寻宝仙灵-元素微粒贴地版本
+70290555: 梦境花可删除物件01
+70290556: 梦境花可删除物件02
+70290557: 梦境花可删除物件03
+70290558: 梦境花可删除物件04
+70290559: 梦境花可删除物件05
+70290560: 梦境花可删除物件06
+70290561: 梦境花可删除物件07
+70290562: 梦境花可删除物件08
+70290563: 梦境花可删除物件09
+70290564: 神殿树光球01
+70290565: 神殿树光球02
+70290566: 神殿树光球03
+70290571: 梦境花可删除物件10
+70290572: 拉娜NPCGadget
+70290581: 神殿树光球04
+70290585: 能量锁链-起点
+70290586: 能量锁链-终点
+70290587: 封印环1.8m-新
+70290588: 封印环3m-新
+70290589: 封印环5m-新
+70290590: 能量桩-新
+70290591: 梦境花可删除物件11
+70290596: 隐藏生命源质
+70310190: 生命仙灵
+70310191: 生命源质
+70310192: 死域飞弹发射器
+70310193: 死域核心(地上型）
+70310194: 死域核心(空中型）
+70310195: 死域节点
+70310196: 死域指示特效
+70310197: 游离源质
+70310200: 织梦网
+70310201: 大型织梦网
+70310202: 植物基座
+70310205: 兰那罗幻梦之门
+70310207: 草种子_子弹
+70310208: 草种子
+70310209: 大草种子_子弹
+70310210: 大草种子
+70310211: 死域节点_亡语1
+70310212: 死域节点_亡语2
+70310213: 死域节点_亡语3
+70310214: 破碎草元素方碑
+70310215: 遗迹巨石6m
+70310216: 遗迹巨石3m
+70310217: 远古方碑(陆地)
+70310218: 远古方碑(水面)
+70310219: 死域观测站_黑烟
+70310220: 打地鼠_地鼠
+70310221: 死域飞弹_子弹
+70310222: 死域黑泥Size4
+70310225: 须弥移动水面
+70310226: 注目用空物件
+70310227: 兰纳罗邮箱
+70310229: 幼虫期死域核心(地上型）
+70310230: 幼虫期死域核心(空中型）
+70310253: 钵参花
+70310254: 怪怪菇
+70310255: 耶然草
 70310256: 大宝的能量核心
-70310440: 不知道是啥
-70310467: 什么都没有
-70310479: 须弥火炬？未点燃状态
-70310485: 一口锅
-70310488: 战斗演示里的那个蘑菇
-70320004: 不知道是什么跟怪物死后那个蓝色的类似
-70320005: 解密的那个火炬 但是是迷彩状态:)
-70330197: 战斗演示里的那个蘑菇
-70330198: 水里的浮萍 2.8前瞻须弥展示那有见到过
-70330199: 捆着石头的树
-70330200: 飘浮着的。。不知道是什么
-70330215: 什么都没有
-70330216: 蘑菇
-70330217: 啥都没有
-70330218: 一样一坨石头 被树枝缠绕
-70330219: 一样
-70330220: 一朵花？中间有草元素
-70330221: 星蔁 摘采物
-70330229: 须弥植物
-70330230: ？？类似留念镜 用来照死域
-70330234: 被树枝缠绕 中间貌似包裹着什么
-70330235: 一样 但是空了几块
-70330236: 一块石头 有绿色的元素指引 有音乐符号
-70330237: 一块圆形的石头 上面长着植物
-70330238: 一朵蓝色的花 中间有草元素
-70330239: 有音乐符号 很奇幻的一颗能量球
-70330240: 一块草地 有2个小精灵在转
-70330241: 一块普通的草地
-70330242: 一株植物
-70330243: 有音乐符号 很奇幻的一颗能量球
-70330244: 死域的东西？中间有个孔 像是火炬一样
-70330245: 像一个眼睛 呈绿色 可以捡貌似
-70330250: 一个指标一样的 直飞
-70330251: 什么都没有
-70330252: 一堆音乐特效
-70330255: 类似元素视野 跟引的东西
-70350432: 疑似大宝的门
-70350433: 一样也是门
-70350434: 满是符文的门
-70350435: 大宝舱门
-70350436: 大宝内部显示屏 已黑
-70350437: 大宝齿轮
-70350438: 大宝齿轮 小一点的
-70350439: 一个底座 不知道是什么
-70350440: 还是个底座 稍微不一样
-70350441: 一样 现在是三角形底座
-70350442: 大宝能量柱
-70350443: 一条符文路：能量线条
-70350444: 稍微长一点的
-70350445: 更长的
-70350446: 一个底座 大宝的
-70350447: 一个大一点的底座 大宝的
-70350448: 一个能量柱 大宝的
-70350449: 一颗能量核心 小的 有发电的特效
-70350451: 什么都没有
-70360365: 一个草元素的环
-70380231: 草精灵？
-70540045: 一个环 但比较难看清楚
-70900403: 不知道是什么 十字型的
-70900404: 可以站上面跳的蘑菇
-70900405: 浮萍
-70900406: 什么都没有
-70900407: 草神图腾 这个没做
-70900408: 什么都没
-70900409: 什么都没
-70900410: 没东西
-72000019: 死域boos？？
-72000021: 没东西 boos skil
-72000022: 一个蓝色能量球skill02
-72000023: skill03 None
-72000026: 一滩水 中间是红色的
-72000027: 死域那个boos大招？
+70310440: 死域观测站-兰纳罗
+70310467: 未爆发死域_雷达用
+70310479: 须弥火盆
+70310485: 兰纳罗烹饪锅
+70310488: 每日任务-弹跳蘑菇（非三态）
+70320004: 透明植物操作台
+70320005: 透明不灭火盆
+70330197: 弹跳蘑菇
+70330198: 片片莲
+70330199: 可抬起石块
+70330200: 三态显形植物
+70330215: 弹跳蘑菇(空中)
+70330216: 毒气蘑菇
+70330217: 植物牢笼
+70330218: 石中植物6m
+70330219: 石中植物3m
+70330220: 体力草-插地版
+70330221: 生命之菇
+70330229: 钩爪点发射器
+70330230: 草神透镜
+70330234: 藤蔓球(单口)
+70330235: 藤蔓球(双口)
+70330236: 兰纳罗音乐传送门
+70330237: 兰那罗梦境石
+70330238: 兰那罗删除花
+70330239: 回流之柱主中枢
+70330240: 初始苗圃
+70330241: 苗圃
+70330242: 树
+70330243: 回流之柱副中枢
+70330244: 愚人众能量吸收器
+70330245: 愚人众能量吸收器钥匙
+70330250: 钩爪点发射器子弹
+70330251: 钩爪点发射器接收器
+70330252: 大梦曲接收器
+70330255: 兰纳罗元素视野
+70350432: 圆形闸门
+70350433: 多边形闸门
+70350434: 格栅闸门
+70350435: 驾驶舱舱门
+70350436: 显示屏
+70350437: 场景_齿轮组_大小组合
+70350438: 场景_齿轮组_单独小
+70350439: 能量机关_1口
+70350440: 能量机关_2口
+70350441: 能量机关_3口
+70350442: 能量电池
+70350443: 能量电线_短
+70350444: 能量电线_中
+70350445: 能量电线_长
+70350446: 能量节点
+70350447: 遗迹巨机-电梯
+70350448: 电梯光罩
+70350449: 机器人_能量块
+70350451: 机器人视野控制器
+70360365: 灵药采集物封印
+70380231: 兰罗摩移动平台
+70540045: 毗波耶
+70900403: 须弥白盒物件_钩爪
+70900404: 须弥白盒物件_弹跳蘑菇
+70900405: 须弥白盒物件_片片莲
+70900406: 须弥白盒物件_可抬起石块
+70900407: 须弥白盒物件_三态标准植物
+70900408: 须弥白盒物件_草种子
+70900409: 须弥白盒物件_死域
+70900410: 须弥白盒物件_透明化白盒
+72000019: 无留陀的化身
+72000021: 无留陀的化身_技能1
+72000022: 无留陀的化身_技能2
+72000023: 无留陀的化身_技能3
+72000026: 无留陀黑泥
+72000027: 无留陀的化身_subEmit生命控制器
 70710802: 多莉的神灯？有点像哈
 70710804: 不知道是什么 小个
 70710805: 一样
@@ -9566,12 +9607,12 @@
 71700447: 啥都没
 71700455: 不知道是什么 凝聚能量的好像
 70710171: 风龙废墟的风圈
-70290063: 能量罩子 打不进去
+70290063: 海岛-爱丽丝留声机保护罩
 70310453: 皇女秘境 城堡碎片1
 70310450: 皇女秘境 城堡碎片2
 70310451: 皇女秘境 城堡碎片3
 70310452: 皇女秘境 城堡碎片4
-70360275: 驾驶浪船{其实不是 不知道是什么}
+70360275: 神秘公文包
 70800056: 烟花box
 70800057: 放烟花咯
 70360104: 信标
@@ -9606,10 +9647,10 @@
 71700386: 2.8海岛活动 给万叶的信
 71700387: 2.8海岛活动 阿贝多的留言
 70310058: 2.8海岛活动 喇叭
-70310480: 一样
+70310480: 海岛 爱丽丝留声机LOD
 70310178: 莫娜秘境对激光的那个
 70360153: 貌似是风花节的一个挑战{可互动}
-70360152: 和上面一样
+70360152: 跳伞看板
 70710738: 层岩活动的那个烧烤{BBQ}
 71700392: 2.8海岛活动 万叶相关
 71700393: 2.8海岛活动 万叶相关
@@ -9618,6 +9659,6 @@
 71700414: 2.8海岛活动 万叶相关
 71700415: 2.8海岛活动 万叶相关
 70310242: 2.8活动 辛炎秘境
-70310330: 2.8活动 莫娜秘境
-70310399: 2.8活动 莫娜秘境{沉入水面}
+70310330: 2.8活动 倒影水台A
+70310399: 2.8活动 倒影水台B
 70330024: 启动元素烘炉
